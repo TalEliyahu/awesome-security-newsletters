@@ -14,6 +14,8 @@ Security Conversations - https://securityconversations.com/newsletters/ - A week
 
 SANS Newsletters - https://www.sans.org/newsletters/ - SANS offers three newsletters to keep you up-to-date on the latest cybersecurity news, cyber attacks and vulnerabilities, and security awareness tips and stories. Subscribe below to gain access to these updates plus thousands of additional free SANS resources.
 
+SecPro - https://security.packt.com/ - Each SecPro issue is packed with analysis of trending threats and attacks, practical tutorials, hands-on labs, and actionable content. No spam. No jibber jabber.
+
 <hi/5> - https://info.securityjourney.com/ - Every week they send you five carefully curated application security articles. Plus, they will throw in some fun commentary from Chris Romeo, Security Journey CEO and AppSec expert. 
 
 IT Security Newsletter - https://blog.cadre.net/it-security-newsletter - Get the latest headlines, summaries, and security news.
