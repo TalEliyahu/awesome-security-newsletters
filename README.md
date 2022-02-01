@@ -1,2 +1,3 @@
 # awesome-security-newsletters
-newslettersn ewslettersnewslettersnewslettersnewsletters
+
+Blockchain Threat Intelligence - blockthreat.io - A weekly, independent newsletter to capture the latest security news, tools, events, vulnerabilities, and threats in the cryptocurrency landscape by @_iphelix
