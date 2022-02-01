@@ -26,4 +26,11 @@ Phishing & Botnet Hunters - https://twitter.com/i/lists/1267713842613637121
 
 OWASP Projects - Get the latest updates about OWASP projects - https://twitter.com/i/lists/1267713842613637121
 
+Test Security Labs - https://twitter.com/i/lists/1274234475547750400
+
+Pentest Tools - https://twitter.com/i/lists/1269682302939848705
+
+Malware Hunters - https://twitter.com/i/lists/1269537848266383362
+
+
 
