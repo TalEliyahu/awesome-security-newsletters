@@ -1,0 +1,2 @@
+# awesome-security-newsletters
+newslettersn ewslettersnewslettersnewslettersnewsletters
