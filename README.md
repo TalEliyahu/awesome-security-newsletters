@@ -14,6 +14,8 @@ SANS Newsletters - https://www.sans.org/newsletters/ - SANS offers three newslet
 
 <hi/5> - https://info.securityjourney.com/ - Every week they send you five carefully curated application security articles. Plus, they will throw in some fun commentary from Chris Romeo, Security Journey CEO and AppSec expert. 
 
+IT Security Newsletter - https://blog.cadre.net/it-security-newsletter - Get the latest headlines, summaries, and security news.
+
 
 
 ## Twitter Lists
