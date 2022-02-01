@@ -18,7 +18,7 @@ SANS Newsletters - https://www.sans.org/newsletters/ - SANS offers three newslet
 
 Red Team - Get the latest tweets from red team professionals -  https://www.twitter.com/i/lists/1270700272285696001
 
-CERTs - Ge the latest tweets from computer emergency response teams - https://twitter.com/i/lists/1267657323494797312 
+CERTs - Get the latest tweets from computer emergency response teams - https://twitter.com/i/lists/1267657323494797312 
 
 Phishing & Botnet Hunters - https://twitter.com/i/lists/1267713842613637121
 
