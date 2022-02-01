@@ -1,5 +1,7 @@
 # awesome-security-newsletters
 
+# Newsletters 
+
 Blockchain Threat Intelligence - https://www.blockthreat.io/ - A weekly, independent newsletter to capture the latest security news, tools, events, vulnerabilities, and threats in the cryptocurrency landscape by @_iphelix
 
 The Cloud Security Reading List - https://cloudseclist.com/ - The "Cloud Security Reading List" is a low volume newsletter (delivered once per week) that highlights security-related news focused on the cloud native landscape, hand curated by Marco Lancini.
@@ -12,3 +14,6 @@ SANS Newsletters - https://www.sans.org/newsletters/ - SANS offers three newslet
 
 
 
+# Twitter List
+
+Red Team - Get the latest tweets from red team professionals -  https://www.twitter.com/i/lists/1270700272285696001
