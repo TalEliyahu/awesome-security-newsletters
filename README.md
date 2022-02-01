@@ -20,3 +20,5 @@ Red Team - Get the latest tweets from red team professionals -  https://www.twit
 
 CERTs - Ge the latest tweets from computer emergency response teams - https://twitter.com/i/lists/1267657323494797312 
 
+Phishing & Botnet Hunters - https://twitter.com/i/lists/1267713842613637121
+
