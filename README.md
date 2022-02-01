@@ -20,6 +20,8 @@ Red Team - Get the latest tweets from red team professionals -  https://www.twit
 
 CERTs - Get the latest tweets from computer emergency response teams - https://twitter.com/i/lists/1267657323494797312 
 
+Vendor Research Labs - Get the latest updates about security research papers published by cyber security labs and research depertments - https://twitter.com/i/lists/1267499126024888320 
+
 Phishing & Botnet Hunters - https://twitter.com/i/lists/1267713842613637121
 
 OWASP Projects - Get the latest updates about OWASP projects - https://twitter.com/i/lists/1267713842613637121
