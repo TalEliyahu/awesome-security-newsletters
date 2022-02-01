@@ -22,3 +22,6 @@ CERTs - Get the latest tweets from computer emergency response teams - https://t
 
 Phishing & Botnet Hunters - https://twitter.com/i/lists/1267713842613637121
 
+OWASP Projects - Get the latest updates about OWASP projects - https://twitter.com/i/lists/1267713842613637121
+
+
