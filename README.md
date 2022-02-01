@@ -10,6 +10,8 @@ tl;dr sec Newsletter - https://tldrsec.com/ - Get the best tools, blog posts, co
 
 API Security Newsletter - https://apisecurity.io/ - The Latest API Security News, Vulnerabilities & Best Practices
 
+Security Conversations - https://securityconversations.com/newsletters/ - A weekly collection of news, op-ed analysis, tools and resources for cybersecurity practitioners.  Curated and edited by Ryan Naraine and sent to your inbox every Monday morning.
+
 SANS Newsletters - https://www.sans.org/newsletters/ - SANS offers three newsletters to keep you up-to-date on the latest cybersecurity news, cyber attacks and vulnerabilities, and security awareness tips and stories. Subscribe below to gain access to these updates plus thousands of additional free SANS resources.
 
 <hi/5> - https://info.securityjourney.com/ - Every week they send you five carefully curated application security articles. Plus, they will throw in some fun commentary from Chris Romeo, Security Journey CEO and AppSec expert. 
