@@ -1,4 +1,4 @@
-# awesome-security-newsletters
+# Awesome Cyber Security Newsletters
 
 ## Newsletters 
 
