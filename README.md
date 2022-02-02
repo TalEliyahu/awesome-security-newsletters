@@ -11,7 +11,7 @@ Periodic cyber security newsletters that capture the latest news, summaries of c
 
 - API Security Newsletter - https://apisecurity.io/ - The latest API security news, vulnerabilities and best practices by [@apisecurityio](https://twitter.com/apisecurityio)
 
-- Security Conversations - https://securityconversations.com/newsletters/ - A weekly collection of news, op-ed analysis, tools and resources for cybersecurity practitioners. 
+- Security Conversations - https://securityconversations.com/newsletters/ - A weekly collection of news, op-ed analysis, tools and resources for cybersecurity practitioners by Ryan Naraine [(@ryanaraine)](https://twitter.com/ryanaraine). 
 
 - SANS Newsletters - https://www.sans.org/newsletters/ - SANS offers three newsletters to keep you up-to-date on the latest cybersecurity news, cyber attacks and vulnerabilities, and security awareness tips and stories.
 
