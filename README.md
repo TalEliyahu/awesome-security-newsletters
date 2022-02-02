@@ -12,7 +12,7 @@ API Security Newsletter - https://apisecurity.io/ - The Latest API Security News
 
 Security Conversations - https://securityconversations.com/newsletters/ - A weekly collection of news, op-ed analysis, tools and resources for cybersecurity practitioners. 
 
-SANS Newsletters - https://www.sans.org/newsletters/ - SANS offers three newsletters to keep you up-to-date on the latest cybersecurity news, cyber attacks and vulnerabilities, and security awareness tips and stories. Subscribe below to gain access to these updates plus thousands of additional free SANS resources.
+SANS Newsletters - https://www.sans.org/newsletters/ - SANS offers three newsletters to keep you up-to-date on the latest cybersecurity news, cyber attacks and vulnerabilities, and security awareness tips and stories.
 
 This Week in 4n6 - https://thisweekin4n6.com/ - This Week in 4n6 is a collection of everything that happens on a weekly basis in the Digital Forensics and Incident Response community.
 
