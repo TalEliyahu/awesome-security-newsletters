@@ -27,6 +27,8 @@ Periodic cyber security newsletters that capture the latest news, summaries of c
 
 - Risky.Biz - https://srslyriskybiz.substack.com/subscribe -  It’s your weekly digest and analysis of the big stories shaping cyber policy. Prepared by Brett Winterford [(@breditor)](https://twitter.com/breditor), Tom Uren [(@tomatospy)](https://twitter.com/tomatospy), and Patrick Gray [(@riskybusiness)](https://twitter.com/riskybusiness).
 
+- Strategy of Security - https://strategyofsecurity.com/ - Understand the companies, ideas, and trends shaping the future of cybersecurity. Get weekly articles designed to help you think clearly and capitalize on opportunities - Cole Grolmus [(@colegrolmus)](https://twitter.com/colegrolmus)
+
 
 ## Twitter Lists
 
