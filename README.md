@@ -19,7 +19,7 @@ Periodic cyber security newsletters that capture the latest news, summaries of c
 
 - SecPro - https://security.packt.com/ - Each SecPro issue is packed with analysis of trending threats and attacks, practical tutorials, hands-on labs, and actionable content. No spam. No jibber jabber - The SecPro [(@the_secpro)](https://twitter.com/the_secpro).
 
-- <hi/5> - https://info.securityjourney.com/ - Every week they send you five carefully curated application security articles by [@SecurityJourney](https://twitter.com/SecurityJourney).
+- <hi/5> - https://info.securityjourney.com/hi5signup - Every week they send you five carefully curated application security articles by [@SecurityJourney](https://twitter.com/SecurityJourney).
 
 - Hive Five Newsletter - https://securib.ee/newsletter/ - Sharing what matters in security. Every week securibee curates InfoSec news, so you can focus on securing web apps and earning bug bounties - Pusha B [(@securibee)](https://twitter.com/securibee).
 
