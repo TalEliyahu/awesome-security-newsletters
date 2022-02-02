@@ -3,9 +3,9 @@ Periodic cyber security newsletters that capture the latest news, summaries of c
 
 ## Newsletters 
 
-- Blockchain Threat Intelligence - https://www.blockthreat.io/ - A weekly, independent newsletter to capture the latest security news, tools, events, vulnerabilities, and threats in the cryptocurrency landscape by Peter Kacherginsky [(@_iphelix)](https://twitter.com/_iphelix)
+- Blockchain Threat Intelligence - https://www.blockthreat.io/ - A weekly, independent newsletter to capture the latest security news, tools, events, vulnerabilities, and threats in the cryptocurrency landscape by Peter Kacherginsky [(@_iphelix)](https://twitter.com/_iphelix).
 
-- The Cloud Security Reading List - https://cloudseclist.com/ - The "Cloud Security Reading List" is a low volume newsletter (delivered once per week) that highlights security-related news focused on the cloud native landscape, hand curated by Marco Lancini.
+- The Cloud Security Reading List - https://cloudseclist.com/ - The "Cloud Security Reading List" is a low volume newsletter (delivered once per week) that highlights security-related news focused on the cloud native landscape, hand curated by Marco Lancini [@lancinimarco](https://twitter.com/lancinimarco).
 
 - tl;dr sec Newsletter - https://tldrsec.com/ - Get the best tools, blog posts, conference talks, and original research right in your inbox, so you can do you job better and faster.
 
