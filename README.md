@@ -21,7 +21,7 @@ Periodic cyber security newsletters that capture the latest news, summaries of c
 
 - <hi/5> - https://info.securityjourney.com/ - Every week they send you five carefully curated application security articles by [@SecurityJourney](https://twitter.com/SecurityJourney).
 
-Hive Five Newsletter - https://securib.ee/newsletter/ - Sharing what matters in security. Every week securibee curates InfoSec news, so you can focus on securing web apps and earning bug bounties by Pusha B [(@securibee)](https://twitter.com/securibee).
+- Hive Five Newsletter - https://securib.ee/newsletter/ - Sharing what matters in security. Every week securibee curates InfoSec news, so you can focus on securing web apps and earning bug bounties by Pusha B [(@securibee)](https://twitter.com/securibee).
 
 ## Twitter Lists
 
