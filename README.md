@@ -3,25 +3,25 @@ Periodic cyber security newsletters that capture the latest news, summaries of c
 
 ## Newsletters 
 
-Blockchain Threat Intelligence - https://www.blockthreat.io/ - A weekly, independent newsletter to capture the latest security news, tools, events, vulnerabilities, and threats in the cryptocurrency landscape by @_iphelix
+- Blockchain Threat Intelligence - https://www.blockthreat.io/ - A weekly, independent newsletter to capture the latest security news, tools, events, vulnerabilities, and threats in the cryptocurrency landscape by @_iphelix
 
-The Cloud Security Reading List - https://cloudseclist.com/ - The "Cloud Security Reading List" is a low volume newsletter (delivered once per week) that highlights security-related news focused on the cloud native landscape, hand curated by Marco Lancini.
+- The Cloud Security Reading List - https://cloudseclist.com/ - The "Cloud Security Reading List" is a low volume newsletter (delivered once per week) that highlights security-related news focused on the cloud native landscape, hand curated by Marco Lancini.
 
-tl;dr sec Newsletter - https://tldrsec.com/ - Get the best tools, blog posts, conference talks, and original research right in your inbox, so you can do you job better and faster.
+- tl;dr sec Newsletter - https://tldrsec.com/ - Get the best tools, blog posts, conference talks, and original research right in your inbox, so you can do you job better and faster.
 
-API Security Newsletter - https://apisecurity.io/ - The Latest API Security News, Vulnerabilities & Best Practices
+- API Security Newsletter - https://apisecurity.io/ - The Latest API Security News, Vulnerabilities & Best Practices
 
-Security Conversations - https://securityconversations.com/newsletters/ - A weekly collection of news, op-ed analysis, tools and resources for cybersecurity practitioners. 
+- Security Conversations - https://securityconversations.com/newsletters/ - A weekly collection of news, op-ed analysis, tools and resources for cybersecurity practitioners. 
 
-SANS Newsletters - https://www.sans.org/newsletters/ - SANS offers three newsletters to keep you up-to-date on the latest cybersecurity news, cyber attacks and vulnerabilities, and security awareness tips and stories.
+- SANS Newsletters - https://www.sans.org/newsletters/ - SANS offers three newsletters to keep you up-to-date on the latest cybersecurity news, cyber attacks and vulnerabilities, and security awareness tips and stories.
 
-This Week in 4n6 - https://thisweekin4n6.com/ - This Week in 4n6 is a collection of everything that happens on a weekly basis in the Digital Forensics and Incident Response community.
+- This Week in 4n6 - https://thisweekin4n6.com/ - This Week in 4n6 is a collection of everything that happens on a weekly basis in the Digital Forensics and - Incident Response community.
 
-SecPro - https://security.packt.com/ - Each SecPro issue is packed with analysis of trending threats and attacks, practical tutorials, hands-on labs, and actionable content. No spam. No jibber jabber.
+- SecPro - https://security.packt.com/ - Each SecPro issue is packed with analysis of trending threats and attacks, practical tutorials, hands-on labs, and actionable content. No spam. No jibber jabber.
 
-<hi/5> - https://info.securityjourney.com/ - Every week they send you five carefully curated application security articles. Plus, they will throw in some fun commentary from Chris Romeo, Security Journey CEO and AppSec expert. 
+- <hi/5> - https://info.securityjourney.com/ - Every week they send you five carefully curated application security articles. Plus, they will throw in some fun commentary from Chris Romeo, Security Journey CEO and AppSec expert. 
 
-IT Security Newsletter - https://blog.cadre.net/it-security-newsletter - Get the latest headlines, summaries, and security news.
+- IT Security Newsletter - https://blog.cadre.net/it-security-newsletter - Get the latest headlines, summaries, and security news.
 
 
 
