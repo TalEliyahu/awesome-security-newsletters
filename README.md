@@ -19,7 +19,7 @@ Periodic cyber security newsletters that capture the latest news, summaries of c
 
 - SecPro - https://security.packt.com/ - Each SecPro issue is packed with analysis of trending threats and attacks, practical tutorials, hands-on labs, and actionable content. No spam. No jibber jabber by The SecPro [(@the_secpro)](https://twitter.com/the_secpro).
 
-- <hi/5> - https://info.securityjourney.com/ - Every week they send you five carefully curated application security articles by [(@SecurityJourney)](https://twitter.com/SecurityJourney).
+- <hi/5> - https://info.securityjourney.com/ - Every week they send you five carefully curated application security articles by [@SecurityJourney](https://twitter.com/SecurityJourney).
 
 - IT Security Newsletter - https://blog.cadre.net/it-security-newsletter - Get the latest headlines, summaries, and security news.
 
