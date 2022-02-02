@@ -27,21 +27,21 @@ Periodic cyber security newsletters that capture the latest news, summaries of c
 
 ## Twitter Lists
 
-Red Team - Get the latest tweets from red team professionals -  https://www.twitter.com/i/lists/1270700272285696001
+- Red Team - Get the latest tweets from red team professionals -  https://www.twitter.com/i/lists/1270700272285696001
 
-CERTs - Get the latest tweets from computer emergency response teams - https://twitter.com/i/lists/1267657323494797312 
+- CERTs - Get the latest tweets from computer emergency response teams - https://twitter.com/i/lists/1267657323494797312 
 
-Vendor Research Labs - Get the latest updates about security research papers published by cyber security labs and research depertments - https://twitter.com/i/lists/1267499126024888320 
+- Vendor Research Labs - Get the latest updates about security research papers published by cyber security labs and research depertments - https://twitter.com/i/lists/1267499126024888320 
 
-Phishing & Botnet Hunters - https://twitter.com/i/lists/1267713842613637121
+- Phishing & Botnet Hunters - https://twitter.com/i/lists/1267713842613637121
 
-OWASP Projects - Get the latest updates about OWASP projects - https://twitter.com/i/lists/1267713842613637121
+- OWASP Projects - Get the latest updates about OWASP projects - https://twitter.com/i/lists/1267713842613637121
 
-Test Security Labs - https://twitter.com/i/lists/1274234475547750400
+- Test Security Labs - https://twitter.com/i/lists/1274234475547750400
 
-Pentest Tools - https://twitter.com/i/lists/1269682302939848705
+- Pentest Tools - https://twitter.com/i/lists/1269682302939848705
 
-Malware Hunters - https://twitter.com/i/lists/1269537848266383362
+- Malware Hunters - https://twitter.com/i/lists/1269537848266383362
 
 
 
