@@ -9,7 +9,7 @@ Periodic cyber security newsletters that capture the latest news, summaries of c
 
 - tl;dr sec Newsletter - https://tldrsec.com/ - Get the best tools, blog posts, conference talks, and original research right in your inbox, so you can do you job better and faster by Clint Gibler [(@clintgibler)](https://twitter.com/clintgibler).
 
-- API Security Newsletter - https://apisecurity.io/ - The latest API security news, vulnerabilities and best practices by [@apisecurityio](https://twitter.com/apisecurityio)
+- API Security Newsletter - https://apisecurity.io/ - The latest API security news, vulnerabilities and best practices by [@apisecurityio](https://twitter.com/apisecurityio).
 
 - Security Conversations - https://securityconversations.com/newsletters/ - A weekly collection of news, op-ed analysis, tools and resources for cybersecurity practitioners by Ryan Naraine [(@ryanaraine)](https://twitter.com/ryanaraine). 
 
@@ -19,7 +19,7 @@ Periodic cyber security newsletters that capture the latest news, summaries of c
 
 - SecPro - https://security.packt.com/ - Each SecPro issue is packed with analysis of trending threats and attacks, practical tutorials, hands-on labs, and actionable content. No spam. No jibber jabber by The SecPro [(@the_secpro)](https://twitter.com/the_secpro).
 
-- <hi/5> - https://info.securityjourney.com/ - Every week they send you five carefully curated application security articles. Plus, they will throw in some fun commentary from Chris Romeo, Security Journey CEO and AppSec expert. 
+- <hi/5> - https://info.securityjourney.com/ - Every week they send you five carefully curated application security articles by [(@SecurityJourney)](https://twitter.com/SecurityJourney).
 
 - IT Security Newsletter - https://blog.cadre.net/it-security-newsletter - Get the latest headlines, summaries, and security news.
 
