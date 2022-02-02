@@ -15,7 +15,7 @@ Periodic cyber security newsletters that capture the latest news, summaries of c
 
 - SANS Newsletters - https://www.sans.org/newsletters/ - SANS offers three newsletters to keep you up-to-date on the latest cybersecurity news, cyber attacks and vulnerabilities, and security awareness tips and stories.
 
-- This Week in 4n6 - https://thisweekin4n6.com/ - This Week in 4n6 is a collection of everything that happens on a weekly basis in the Digital Forensics and - Incident Response community.
+- This Week in 4n6 - https://thisweekin4n6.com/ - This Week in 4n6 is a collection of everything that happens on a weekly basis in the Digital Forensics and - Incident Response community by Phill Moore [(@phillmoore)](https://twitter.com/phillmoore).
 
 - SecPro - https://security.packt.com/ - Each SecPro issue is packed with analysis of trending threats and attacks, practical tutorials, hands-on labs, and actionable content. No spam. No jibber jabber.
 
