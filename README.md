@@ -21,9 +21,6 @@ Periodic cyber security newsletters that capture the latest news, summaries of c
 
 - <hi/5> - https://info.securityjourney.com/ - Every week they send you five carefully curated application security articles by [@SecurityJourney](https://twitter.com/SecurityJourney).
 
-- IT Security Newsletter - https://blog.cadre.net/it-security-newsletter - Get the latest headlines, summaries, and security news.
-
-
 
 ## Twitter Lists
 
