@@ -1,4 +1,5 @@
 # Awesome Cyber Security Newsletters
+Periodic cyber security newsletters that capture the latest news, summaries of conference talks, research, best practices, tools, events, vulnerabilities, and analysis of trending threats and attacks
 
 ## Newsletters 
 
