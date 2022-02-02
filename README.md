@@ -23,6 +23,9 @@ Periodic cyber security newsletters that capture the latest news, summaries of c
 
 - Hive Five Newsletter - https://securib.ee/newsletter/ - Sharing what matters in security. Every week securibee curates InfoSec news, so you can focus on securing web apps and earning bug bounties by Pusha B [(@securibee)](https://twitter.com/securibee).
 
+- Unsupervised Learning Community - https://danielmiessler.com/newsletter/ - Daniel spends 20+ hours a week consuming content, and every Monday morning he sends a summary of the most important stories, by Daniel Miessler [(@@DanielMiessler)](https://twitter.com/DanielMiessler)
+
+
 ## Twitter Lists
 
 - Red Team - Get the latest tweets from red team professionals -  https://www.twitter.com/i/lists/1270700272285696001
