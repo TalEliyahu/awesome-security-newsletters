@@ -25,7 +25,7 @@ Periodic cyber security newsletters that capture the latest news, summaries of c
 
 - <hi/5> - https://info.securityjourney.com/hi5signup - Every week they send you five carefully curated application security articles by [@SecurityJourney](https://twitter.com/SecurityJourney).
 
-- Risky.Biz - https://srslyriskybiz.substack.com/subscribe - prepared by Tom Uren and Patrick Gray and hosted on Substack. It’s your weekly digest and analysis of the big stories shaping cyber policy, prepared a day ahead of the podcast. [@riskybusiness](https://twitter.com/riskybusiness)
+- Risky.Biz - https://srslyriskybiz.substack.com/subscribe -  It’s your weekly digest and analysis of the big stories shaping cyber policy, prepared a day ahead of the podcast. Prepared by Brett Winterford [(@breditor)](https://twitter.com/breditor) and Tom Uren [(@tomatospy)](https://twitter.com/tomatospy).
 
 
 
