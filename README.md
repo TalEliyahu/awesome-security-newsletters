@@ -9,7 +9,7 @@ Periodic cyber security newsletters that capture the latest news, summaries of c
 
 - tl;dr sec Newsletter - https://tldrsec.com/ - Get the best tools, blog posts, conference talks, and original research right in your inbox, so you can do you job better and faster by Clint Gibler [(@clintgibler)](https://twitter.com/clintgibler).
 
-- API Security Newsletter - https://apisecurity.io/ [(@apisecurityio)](https://twitter.com/apisecurityio)- The Latest API Security News, Vulnerabilities & Best Practices
+- API Security Newsletter - https://apisecurity.io/ - The Latest API Security News, Vulnerabilities & Best Practices by [@apisecurityio](https://twitter.com/apisecurityio)
 
 - Security Conversations - https://securityconversations.com/newsletters/ - A weekly collection of news, op-ed analysis, tools and resources for cybersecurity practitioners. 
 
