@@ -40,7 +40,7 @@ Periodic cyber security newsletters that capture the latest news, summaries of c
 
 - Phishing & Botnet Hunters - https://twitter.com/i/lists/1267713842613637121
 
-- OWASP Projects - Get the latest updates about OWASP projects - https://twitter.com/i/lists/1267713842613637121
+- OWASP Projects - Get the latest updates about OWASP projects - https://twitter.com/i/lists/1267635551168892928
 
 - Test Security Labs - https://twitter.com/i/lists/1274234475547750400
 
