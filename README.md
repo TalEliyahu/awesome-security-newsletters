@@ -33,6 +33,10 @@ Periodic cyber security newsletters that capture the latest news, summaries of c
 
 - RTCSec Newsletter - https://www.rtcsec.com/newsletter/ - A free monthly newsletter bringing you commentary and news around VoIP and WebRTC security. Covers both defensive and offensive security as they relate to Real-time Communications. Prepared by [@sandrogauci](https://twitter.com/sandrogauci) and [@enablesecurity](https://twitter.com/enablesecurity).
 
+- This week in security - https://this.weekinsecurity.com/ - A weekly tl;dr cybersecurity newsletter of all the major stuff you missed, but really need to know. It includes news, the happy corner, a featured cyber cat (or friend), and more. It's sent every Sunday, and is completely free. Prepared by [@zackwhittaker](https://twitter.com/zackwhittaker)
+
+- Zero Day - https://zetter.substack.com - If you love stories about hackers, spies, cybercrime and the intersection between cybersecurity and national security, this publication should interest you - Prepared by [@KimZetter](https://twitter.com/KimZetter)
+
 ## Twitter Lists
 
 - Red Team - Get the latest tweets from red team professionals -  https://www.twitter.com/i/lists/1270700272285696001
