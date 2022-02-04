@@ -13,8 +13,6 @@ Periodic cyber security newsletters that capture the latest news, summaries of c
 
 - Security Conversations - https://securityconversations.com/newsletters/ - A weekly collection of news, op-ed analysis, tools and resources for cybersecurity practitioners - Ryan Naraine [(@ryanaraine)](https://twitter.com/ryanaraine). 
 
-- SANS Newsletters - https://www.sans.org/newsletters/ - SANS offers three newsletters to keep you up-to-date on the latest cybersecurity news, cyber attacks and vulnerabilities, and security awareness tips and stories.
-
 - Hive Five Newsletter - https://securib.ee/newsletter/ - Sharing what matters in security. Every week securibee curates InfoSec news, so you can focus on securing web apps and earning bug bounties - Pusha B [(@securibee)](https://twitter.com/securibee).
 
 - Unsupervised Learning Community - https://danielmiessler.com/newsletter/ - Daniel spends 20+ hours a week consuming content, and every Monday morning he sends a summary of the most important stories - Daniel Miessler [(@DanielMiessler)](https://twitter.com/DanielMiessler)
@@ -22,8 +20,6 @@ Periodic cyber security newsletters that capture the latest news, summaries of c
 - This Week in 4n6 - https://thisweekin4n6.com/ - This Week in 4n6 is a collection of everything that happens on a weekly basis in the Digital Forensics and - Incident Response community - Phill Moore [(@phillmoore)](https://twitter.com/phillmoore).
 
 - SecPro - https://security.packt.com/ - Each SecPro issue is packed with analysis of trending threats and attacks, practical tutorials, hands-on labs, and actionable content. No spam. No jibber jabber - The SecPro [(@the_secpro)](https://twitter.com/the_secpro).
-
-- <hi/5> - https://info.securityjourney.com/hi5signup - Every week they send you five carefully curated application security articles by [@SecurityJourney](https://twitter.com/SecurityJourney).
 
 - Risky.Biz - https://srslyriskybiz.substack.com/subscribe -  It’s your weekly digest and analysis of the big stories shaping cyber policy. Prepared by Brett Winterford [(@breditor)](https://twitter.com/breditor), Tom Uren [(@tomatospy)](https://twitter.com/tomatospy), and Patrick Gray [(@riskybusiness)](https://twitter.com/riskybusiness).
 
@@ -36,6 +32,10 @@ Periodic cyber security newsletters that capture the latest news, summaries of c
 - This week in security - https://this.weekinsecurity.com/ - A weekly tl;dr cybersecurity newsletter of all the major stuff you missed, but really need to know. It includes news, the happy corner, a featured cyber cat (or friend), and more. It's sent every Sunday, and is completely free. Prepared by Zack Whittaker [@zackwhittaker](https://twitter.com/zackwhittaker).
 
 - Zero Day - https://zetter.substack.com - If you love stories about hackers, spies, cybercrime and the intersection between cybersecurity and national security, this publication should interest you - Prepared by Kim Zetter [@KimZetter](https://twitter.com/KimZetter)
+
+- <hi/5> - https://info.securityjourney.com/hi5signup - Every week they send you five carefully curated application security articles by [@SecurityJourney](https://twitter.com/SecurityJourney).
+
+- SANS Newsletters - https://www.sans.org/newsletters/ - SANS offers three newsletters to keep you up-to-date on the latest cybersecurity news, cyber attacks and vulnerabilities, and security awareness tips and stories.
 
 ## Twitter Lists
 
