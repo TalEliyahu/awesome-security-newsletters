@@ -31,6 +31,8 @@ Periodic cyber security newsletters that capture the latest news, summaries of c
 
 - AdvisoryWeek - https://advisoryweek.com/ - A roundup of the security advisories that were published each week by major software vendors (Apple, Adobe, Microsoft, Oracle, etc.), built by Pete Freitag [(@pfreitag)](https://twitter.com/pfreitag)
 
+- RTCSec Newsletter - https://www.rtcsec.com/newsletter/ - A free monthly newsletter bringing you commentary and news around VoIP and WebRTC security. Covers both defensive and offensive security as they relate to Real-time Communications. Prepared by [@sandrogauci](https://twitter.com/sandrogauci) and [@enablesecurity](https://twitter.com/enablesecurity).
+
 ## Twitter Lists
 
 - Red Team - Get the latest tweets from red team professionals -  https://www.twitter.com/i/lists/1270700272285696001
