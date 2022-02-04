@@ -17,7 +17,7 @@ Periodic cyber security newsletters that capture the latest news, summaries of c
 
 - Unsupervised Learning Community - https://danielmiessler.com/newsletter/ - Daniel spends 20+ hours a week consuming content, and every Monday morning he sends a summary of the most important stories - Daniel Miessler [(@DanielMiessler)](https://twitter.com/DanielMiessler)
 
-- This Week in 4n6 - https://thisweekin4n6.com/ - This Week in 4n6 is a collection of everything that happens on a weekly basis in the Digital Forensics and - Incident Response community - Phill Moore [(@phillmoore)](https://twitter.com/phillmoore).
+- This Week in 4n6 - https://thisweekin4n6.com/ - A collection of everything that happens on a weekly basis in the Digital Forensics and - Incident Response community - Phill Moore [(@phillmoore)](https://twitter.com/phillmoore).
 
 - SecPro - https://security.packt.com/ - Each SecPro issue is packed with analysis of trending threats and attacks, practical tutorials, hands-on labs, and actionable content. No spam. No jibber jabber - The SecPro [(@the_secpro)](https://twitter.com/the_secpro).
 
