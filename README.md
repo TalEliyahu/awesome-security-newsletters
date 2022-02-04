@@ -29,13 +29,13 @@ Periodic cyber security newsletters that capture the latest news, summaries of c
 
 - Strategy of Security - https://strategyofsecurity.com/ - Understand the companies, ideas, and trends shaping the future of cybersecurity. Get weekly articles designed to help you think clearly and capitalize on opportunities - Cole Grolmus [(@colegrolmus)](https://twitter.com/colegrolmus)
 
-- AdvisoryWeek - https://advisoryweek.com/ - A roundup of the security advisories that were published each week by major software vendors (Apple, Adobe, Microsoft, Oracle, etc.), built by Pete Freitag [(@pfreitag)](https://twitter.com/pfreitag)
+- AdvisoryWeek - https://advisoryweek.com/ - A roundup of the security advisories that were published each week by major software vendors (Apple, Adobe, Microsoft, Oracle, etc.), built by Pete Freitag [(@pfreitag)](https://twitter.com/pfreitag).
 
-- RTCSec Newsletter - https://www.rtcsec.com/newsletter/ - A free monthly newsletter bringing you commentary and news around VoIP and WebRTC security. Covers both defensive and offensive security as they relate to Real-time Communications. Prepared by [@sandrogauci](https://twitter.com/sandrogauci) and [@enablesecurity](https://twitter.com/enablesecurity).
+- RTCSec Newsletter - https://www.rtcsec.com/newsletter/ - A free monthly newsletter bringing you commentary and news around VoIP and WebRTC security. Covers both defensive and offensive security as they relate to Real-time Communications. Prepared by Sandro Gauci [@sandrogauci](https://twitter.com/sandrogauci).
 
-- This week in security - https://this.weekinsecurity.com/ - A weekly tl;dr cybersecurity newsletter of all the major stuff you missed, but really need to know. It includes news, the happy corner, a featured cyber cat (or friend), and more. It's sent every Sunday, and is completely free. Prepared by [@zackwhittaker](https://twitter.com/zackwhittaker)
+- This week in security - https://this.weekinsecurity.com/ - A weekly tl;dr cybersecurity newsletter of all the major stuff you missed, but really need to know. It includes news, the happy corner, a featured cyber cat (or friend), and more. It's sent every Sunday, and is completely free. Prepared by Zack Whittaker [@zackwhittaker](https://twitter.com/zackwhittaker).
 
-- Zero Day - https://zetter.substack.com - If you love stories about hackers, spies, cybercrime and the intersection between cybersecurity and national security, this publication should interest you - Prepared by [@KimZetter](https://twitter.com/KimZetter)
+- Zero Day - https://zetter.substack.com - If you love stories about hackers, spies, cybercrime and the intersection between cybersecurity and national security, this publication should interest you - Prepared by Kim Zetter [@KimZetter](https://twitter.com/KimZetter)
 
 ## Twitter Lists
 
