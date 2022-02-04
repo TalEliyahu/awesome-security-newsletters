@@ -29,6 +29,7 @@ Periodic cyber security newsletters that capture the latest news, summaries of c
 
 - Strategy of Security - https://strategyofsecurity.com/ - Understand the companies, ideas, and trends shaping the future of cybersecurity. Get weekly articles designed to help you think clearly and capitalize on opportunities - Cole Grolmus [(@colegrolmus)](https://twitter.com/colegrolmus)
 
+- AdvisoryWeek - https://advisoryweek.com/ - A roundup of the security advisories that were published each week by major software vendors (Apple, Adobe, Microsoft, Oracle, etc.), built by Pete Freitag [(@pfreitag)](https://twitter.com/pfreitag)
 
 ## Twitter Lists
 
