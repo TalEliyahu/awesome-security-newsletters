@@ -3,7 +3,7 @@ Periodic cyber security newsletters that capture the latest news, summaries of c
 
 ## Newsletters 
 
-- The Cloud Security Reading List - https://cloudseclist.com/ - A low volume newsletter (delivered once per week) that highlights security-related news focused on the cloud native landscape, hand curated by Marco Lancini [(@lancinimarco)](https://twitter.com/lancinimarco).
+- [The Cloud Security Reading List](https://cloudseclist.com/) - A low volume newsletter (delivered once per week) that highlights security-related news focused on the cloud native landscape, hand curated by Marco Lancini [(@lancinimarco)](https://twitter.com/lancinimarco).
 
 - tl;dr sec Newsletter - https://tldrsec.com/ - Get the best tools, blog posts, conference talks, and original research right in your inbox, so you can do you job better and faster by Clint Gibler [(@clintgibler)](https://twitter.com/clintgibler).
 
