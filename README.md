@@ -37,6 +37,8 @@ Periodic cyber security newsletters that capture the latest news, summaries of c
 
 - [SANS Newsletters](https://www.sans.org/newsletters/) - SANS offers three newsletters to keep you up-to-date on the latest cybersecurity news, cyber attacks and vulnerabilities, and security awareness tips and stories.
 
+- [CyberSecNewsWeekly](https://buttondown.email/CybersecNewsWeekly) - A weekly collection of news, articles, tools and tutorials by a security professional (@lormayna) for security professionals audience.
+
 ## Twitter Lists
 
 - Red Team - Get the latest tweets from red team professionals -  https://www.twitter.com/i/lists/1270700272285696001
