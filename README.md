@@ -39,6 +39,8 @@ Periodic cyber security newsletters that capture the latest news, summaries of c
 
 - [CyberSecNewsWeekly](https://buttondown.email/CybersecNewsWeekly) - A weekly collection of news, articles, tools and tutorials by a security professional (@lormayna) for security professionals audience.
 
+- [Last Week in Security](https://blog.badsectorlabs.com) - A summary of the interesting cybersecurity news, techniques, tools and exploits from the previous week.
+
 ## Twitter Lists
 
 - Red Team - Get the latest tweets from red team professionals -  https://www.twitter.com/i/lists/1270700272285696001
