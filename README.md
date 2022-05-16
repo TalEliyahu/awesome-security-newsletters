@@ -1,7 +1,8 @@
 # Awesome Cyber Security Newsletters
+
 Periodic cyber security newsletters that capture the latest news, summaries of conference talks, research, best practices, tools, events, vulnerabilities, and analysis of trending threats and attacks
 
-## Newsletters 
+## Newsletters
 
 - [The Cloud Security Reading List](https://cloudseclist.com/) - A low volume newsletter (delivered once per week) that highlights security-related news focused on the cloud native landscape, hand curated by Marco Lancini [(@lancinimarco)](https://twitter.com/lancinimarco).
 
@@ -9,9 +10,9 @@ Periodic cyber security newsletters that capture the latest news, summaries of c
 
 - [API Security Newsletter](https://apisecurity.io/) - The latest API security news, vulnerabilities and best practices by [@apisecurityio](https://twitter.com/apisecurityio).
 
-- [Blockchain Threat Intelligence](https://www.blockthreat.io/) - A weekly, independent newsletter to capture the latest security news, tools, events, vulnerabilities, and threats in the cryptocurrency landscape - Peter Kacherginsky [(@_iphelix)](https://twitter.com/_iphelix).
+- [Blockchain Threat Intelligence](https://www.blockthreat.io/) - A weekly, independent newsletter to capture the latest security news, tools, events, vulnerabilities, and threats in the cryptocurrency landscape - Peter Kacherginsky [(@\_iphelix)](https://twitter.com/_iphelix).
 
-- [Security Conversations](https://securityconversations.com/newsletters/) - A weekly collection of news, op-ed analysis, tools and resources for cybersecurity practitioners - Ryan Naraine [(@ryanaraine)](https://twitter.com/ryanaraine). 
+- [Security Conversations](https://securityconversations.com/newsletters/) - A weekly collection of news, op-ed analysis, tools and resources for cybersecurity practitioners - Ryan Naraine [(@ryanaraine)](https://twitter.com/ryanaraine).
 
 - [Hive Five Newsletter](https://securib.ee/newsletter/) - Sharing what matters in security. Every week securibee curates InfoSec news, so you can focus on securing web apps and earning bug bounties - Pusha B [(@securibee)](https://twitter.com/securibee).
 
@@ -21,7 +22,7 @@ Periodic cyber security newsletters that capture the latest news, summaries of c
 
 - [SecPro](https://security.packt.com/) - Each SecPro issue is packed with analysis of trending threats and attacks, practical tutorials, hands-on labs, and actionable content. No spam. No jibber jabber - The SecPro [(@the_secpro)](https://twitter.com/the_secpro).
 
-- [Risky.Biz](https://srslyriskybiz.substack.com/subscribe) -  It’s your weekly digest and analysis of the big stories shaping cyber policy. Prepared by Brett Winterford [(@breditor)](https://twitter.com/breditor), Tom Uren [(@tomatospy)](https://twitter.com/tomatospy), and Patrick Gray [(@riskybusiness)](https://twitter.com/riskybusiness).
+- [Risky.Biz](https://srslyriskybiz.substack.com/subscribe) - It’s your weekly digest and analysis of the big stories shaping cyber policy. Prepared by Brett Winterford [(@breditor)](https://twitter.com/breditor), Tom Uren [(@tomatospy)](https://twitter.com/tomatospy), and Patrick Gray [(@riskybusiness)](https://twitter.com/riskybusiness).
 
 - [Strategy of Security](https://strategyofsecurity.com/) - Understand the companies, ideas, and trends shaping the future of cybersecurity. Get weekly articles designed to help you think clearly and capitalize on opportunities - Cole Grolmus [(@colegrolmus)](https://twitter.com/colegrolmus)
 
@@ -41,13 +42,15 @@ Periodic cyber security newsletters that capture the latest news, summaries of c
 
 - [Last Week in Security](https://blog.badsectorlabs.com) - A summary of the interesting cybersecurity news, techniques, tools and exploits from the previous week.
 
+- [AWS Security Digest](https://asd.zoph.io) - Adopt a slow-tech 🐌 approach by reading only essential info on AWS Security landscape – once a week –  on Monday.
+
 ## Twitter Lists
 
-- Red Team - Get the latest tweets from red team professionals -  https://www.twitter.com/i/lists/1270700272285696001
+- Red Team - Get the latest tweets from red team professionals - https://www.twitter.com/i/lists/1270700272285696001
 
-- CERTs - Get the latest tweets from computer emergency response teams - https://twitter.com/i/lists/1267657323494797312 
+- CERTs - Get the latest tweets from computer emergency response teams - https://twitter.com/i/lists/1267657323494797312
 
-- Vendor Research Labs - Get the latest updates about security research papers published by cyber security labs and research depertments - https://twitter.com/i/lists/1267499126024888320 
+- Vendor Research Labs - Get the latest updates about security research papers published by cyber security labs and research depertments - https://twitter.com/i/lists/1267499126024888320
 
 - Phishing & Botnet Hunters - https://twitter.com/i/lists/1267713842613637121
 
@@ -59,8 +62,4 @@ Periodic cyber security newsletters that capture the latest news, summaries of c
 
 - Malware Hunters - https://twitter.com/i/lists/1269537848266383362
 
-- Bug Bounty - https://twitter.com/i/lists/1253517962272743424 
-
-
-
-
+- Bug Bounty - https://twitter.com/i/lists/1253517962272743424
