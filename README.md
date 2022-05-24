@@ -26,6 +26,8 @@ Periodic cyber security newsletters that capture the latest news, summaries of c
 
 - [CyberSecNewsWeekly](https://buttondown.email/CybersecNewsWeekly) - A weekly collection of news, articles, tools and tutorials by a security professional (@lormayna) for security professionals audience.
 
+- [Politico Weekly Cybersecurity](https://www.politico.com/newsletters/weekly-cybersecurity) - Delivered every Monday by 10 a.m., Weekly Cybersecurity examines the latest news in cybersecurity policy and politics. 
+
 - [Zero Day](https://zetter.substack.com) - If you love stories about hackers, spies, cybercrime and the intersection between cybersecurity and national security, this publication should interest you - Prepared by Kim Zetter [@KimZetter](https://twitter.com/KimZetter)
 
 - [Unsupervised Learning Community](https://danielmiessler.com/newsletter/) - Daniel spends 20+ hours a week consuming content, and every Monday morning he sends a summary of the most important stories - Daniel Miessler [(@DanielMiessler)](https://twitter.com/DanielMiessler)
