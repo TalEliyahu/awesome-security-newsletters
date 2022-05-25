@@ -16,12 +16,6 @@ Periodic cyber security newsletters that capture the latest news, summaries of c
 
 - [Hive Five Newsletter](https://securib.ee/newsletter/) - Sharing what matters in security. Every week securibee curates InfoSec news, so you can focus on securing web apps and earning bug bounties - Pusha B [(@securibee)](https://twitter.com/securibee).
 
-- [tl;dr sec Newsletter](https://tldrsec.com/) - Get the best tools, blog posts, conference talks, and original research right in your inbox, so you can do you job better and faster by Clint Gibler [(@clintgibler)](https://twitter.com/clintgibler).
-
-- [AdvisoryWeek](https://advisoryweek.com/) - A roundup of the security advisories that were published each week by major software vendors (Apple, Adobe, Microsoft, Oracle, etc.), built by Pete Freitag [(@pfreitag)](https://twitter.com/pfreitag).
-
-- [Politico Weekly Cybersecurity](https://www.politico.com/newsletters/weekly-cybersecurity) - Delivered every Monday by 10 a.m., Weekly Cybersecurity examines the latest news in cybersecurity policy and politics. 
-
 - [RTCSec Newsletter](https://www.rtcsec.com/newsletter/) - A free monthly newsletter bringing you commentary and news around VoIP and WebRTC security. Covers both defensive and offensive security as they relate to Real-time Communications. Prepared by Sandro Gauci [@sandrogauci](https://twitter.com/sandrogauci).
 
 - [Strategy of Security](https://strategyofsecurity.com/) - Understand the companies, ideas, and trends shaping the future of cybersecurity. Get weekly articles designed to help you think clearly and capitalize on opportunities - Cole Grolmus [(@colegrolmus)](https://twitter.com/colegrolmus)
@@ -32,12 +26,18 @@ Periodic cyber security newsletters that capture the latest news, summaries of c
 
 - [SecPro](https://security.packt.com/) - Each SecPro issue is packed with analysis of trending threats and attacks, practical tutorials, hands-on labs, and actionable content. No spam. No jibber jabber - The SecPro [(@the_secpro)](https://twitter.com/the_secpro).
 
+- [Politico Weekly Cybersecurity](https://www.politico.com/newsletters/weekly-cybersecurity) - Delivered every Monday by 10 a.m., Weekly Cybersecurity examines the latest news in cybersecurity policy and politics. 
+
 
 ## News Newsletters 
+
+- [tl;dr sec Newsletter](https://tldrsec.com/) - Get the best tools, blog posts, conference talks, and original research right in your inbox, so you can do you job better and faster by Clint Gibler [(@clintgibler)](https://twitter.com/clintgibler).
 
 - [SANS Newsletters](https://www.sans.org/newsletters/) - SANS offers three newsletters to keep you up-to-date on the latest cybersecurity news, cyber attacks and vulnerabilities, and security awareness tips and stories.
 
 - [This week in security](https://this.weekinsecurity.com/) - A weekly tl;dr cybersecurity newsletter of all the major stuff you missed, but really need to know. It includes news, the happy corner, a featured cyber cat (or friend), and more. It's sent every Sunday, and is completely free. Prepared by Zack Whittaker [@zackwhittaker](https://twitter.com/zackwhittaker).
+
+- [AdvisoryWeek](https://advisoryweek.com/) - A roundup of the security advisories that were published each week by major software vendors (Apple, Adobe, Microsoft, Oracle, etc.), built by Pete Freitag [(@pfreitag)](https://twitter.com/pfreitag).
 
 - [CyberSecNewsWeekly](https://buttondown.email/CybersecNewsWeekly) - A weekly collection of news, articles, tools and tutorials by a security professional (@lormayna) for security professionals audience.
 
@@ -45,11 +45,11 @@ Periodic cyber security newsletters that capture the latest news, summaries of c
 
 - [U.S. Department of Homeland Security](https://public.govdelivery.com/accounts/USDHS/subscriber/new) - Sign up to receive free e-mails to get updates on a variety of U.S. Department of Homeland Security cyber security topics.
 
-- [<hi/5>](https://info.securityjourney.com/hi5signup) - Every week they send you five carefully curated application security articles by [@SecurityJourney](https://twitter.com/SecurityJourney).
-
 - [Security Conversations](https://securityconversations.com/newsletters/) - A weekly collection of news, op-ed analysis, tools and resources for cybersecurity practitioners - Ryan Naraine [(@ryanaraine)](https://twitter.com/ryanaraine).
 
 - [Last Week in Security](https://blog.badsectorlabs.com) - A summary of the interesting cybersecurity news, techniques, tools and exploits from the previous week.
+
+- [<hi/5>](https://info.securityjourney.com/hi5signup) - Every week they send you five carefully curated application security articles by [@SecurityJourney](https://twitter.com/SecurityJourney).
 
 
 ## Twitter Lists
