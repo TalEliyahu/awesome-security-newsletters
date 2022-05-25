@@ -30,18 +30,18 @@ Periodic cyber security newsletters that capture the latest news, summaries of c
 
 - [Politico Weekly Cybersecurity](https://www.politico.com/newsletters/weekly-cybersecurity) - Delivered every Monday by 10 a.m., Weekly Cybersecurity examines the latest news in cybersecurity policy and politics. 
 
+- [AdvisoryWeek](https://advisoryweek.com/) - A roundup of the security advisories that were published each week by major software vendors (Apple, Adobe, Microsoft, Oracle, etc.), built by Pete Freitag [(@pfreitag)](https://twitter.com/pfreitag).
+
 
 ## News Newsletters 
 
-- [SANS Newsletters](https://www.sans.org/newsletters/) - SANS offers three newsletters to keep you up-to-date on the latest cybersecurity news, cyber attacks and vulnerabilities, and security awareness tips and stories.
-
 - [This week in security](https://this.weekinsecurity.com/) - A weekly tl;dr cybersecurity newsletter of all the major stuff you missed, but really need to know. It includes news, the happy corner, a featured cyber cat (or friend), and more. It's sent every Sunday, and is completely free. Prepared by Zack Whittaker [(@zackwhittaker)](https://twitter.com/zackwhittaker).
 
-- [AdvisoryWeek](https://advisoryweek.com/) - A roundup of the security advisories that were published each week by major software vendors (Apple, Adobe, Microsoft, Oracle, etc.), built by Pete Freitag [(@pfreitag)](https://twitter.com/pfreitag).
+- [Unsupervised Learning Community](https://danielmiessler.com/newsletter/) - Daniel spends 20+ hours a week consuming content, and every Monday morning he sends a summary of the most important stories - Daniel Miessler [(@DanielMiessler)](https://twitter.com/DanielMiessler)
 
 - [CyberSecNewsWeekly](https://buttondown.email/CybersecNewsWeekly) - A weekly collection of news, articles, tools and tutorials by a security professional (@lormayna) for security professionals audience.
 
-- [Unsupervised Learning Community](https://danielmiessler.com/newsletter/) - Daniel spends 20+ hours a week consuming content, and every Monday morning he sends a summary of the most important stories - Daniel Miessler [(@DanielMiessler)](https://twitter.com/DanielMiessler)
+- [SANS Newsletters](https://www.sans.org/newsletters/) - SANS offers three newsletters to keep you up-to-date on the latest cybersecurity news, cyber attacks and vulnerabilities, and security awareness tips and stories.
 
 - [U.S. Department of Homeland Security](https://public.govdelivery.com/accounts/USDHS/subscriber/new) - Sign up to receive free e-mails to get updates on a variety of U.S. Department of Homeland Security cyber security topics.
 
