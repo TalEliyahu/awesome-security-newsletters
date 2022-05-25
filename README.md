@@ -14,6 +14,8 @@ Periodic cyber security newsletters that capture the latest news, summaries of c
 
 - [AWS Security Digest](https://asd.zoph.io) - Adopt a slow-tech 🐌 approach by reading only essential info on AWS Security landscape – once a week –  on Monday.
 
+- [tl;dr sec Newsletter](https://tldrsec.com/) - Get the best tools, blog posts, conference talks, and original research right in your inbox, so you can do you job better and faster by Clint Gibler [(@clintgibler)](https://twitter.com/clintgibler).
+
 - [Hive Five Newsletter](https://securib.ee/newsletter/) - Sharing what matters in security. Every week securibee curates InfoSec news, so you can focus on securing web apps and earning bug bounties - Pusha B [(@securibee)](https://twitter.com/securibee).
 
 - [RTCSec Newsletter](https://www.rtcsec.com/newsletter/) - A free monthly newsletter bringing you commentary and news around VoIP and WebRTC security. Covers both defensive and offensive security as they relate to Real-time Communications. Prepared by Sandro Gauci [(@sandrogauci)](https://twitter.com/sandrogauci).
@@ -30,8 +32,6 @@ Periodic cyber security newsletters that capture the latest news, summaries of c
 
 
 ## News Newsletters 
-
-- [tl;dr sec Newsletter](https://tldrsec.com/) - Get the best tools, blog posts, conference talks, and original research right in your inbox, so you can do you job better and faster by Clint Gibler [(@clintgibler)](https://twitter.com/clintgibler).
 
 - [SANS Newsletters](https://www.sans.org/newsletters/) - SANS offers three newsletters to keep you up-to-date on the latest cybersecurity news, cyber attacks and vulnerabilities, and security awareness tips and stories.
 
