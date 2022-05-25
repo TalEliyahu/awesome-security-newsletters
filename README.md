@@ -45,8 +45,6 @@ Periodic cyber security newsletters that capture the latest news, summaries of c
 
 - [U.S. Department of Homeland Security](https://public.govdelivery.com/accounts/USDHS/subscriber/new) - Sign up to receive free e-mails to get updates on a variety of U.S. Department of Homeland Security cyber security topics.
 
-- [Security Conversations](https://securityconversations.com/newsletters/) - A weekly collection of news, op-ed analysis, tools and resources for cybersecurity practitioners - Ryan Naraine [(@ryanaraine)](https://twitter.com/ryanaraine).
-
 - [Last Week in Security](https://blog.badsectorlabs.com) - A summary of the interesting cybersecurity news, techniques, tools and exploits from the previous week.
 
 - [<hi/5>](https://info.securityjourney.com/hi5signup) - Every week they send you five carefully curated application security articles by [@SecurityJourney](https://twitter.com/SecurityJourney).
