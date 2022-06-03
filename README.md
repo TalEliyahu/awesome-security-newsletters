@@ -24,7 +24,7 @@ Periodic cyber security newsletters that capture the latest news, summaries of c
 
 - [Strategy of Security](https://strategyofsecurity.com/) - Understand the companies, ideas, and trends shaping the future of cybersecurity. Get weekly articles designed to help you think clearly and capitalize on opportunities - Cole Grolmus [(@colegrolmus)](https://twitter.com/colegrolmus)
 
-- [Last Week As A vCISO](https://www.lastweekasavciso.com/) - Every week Ayman Elsawah helps companies get through their security as a fractional CISO. Whether it’s improving their AWS Cloud Security, helping with a security incident, hiring a security leader, or providing research and advise. This weekly newsletter is a take of Ayman Elsawah ([@coffeewithayman](https://twitter.com/coffeewithayman)personal reflections on the past week in cybersecurity (aka Information Security). 
+- [Last Week As A vCISO](https://www.lastweekasavciso.com/) - Every week Ayman Elsawah helps companies get through their security as a fractional CISO. Whether it’s improving their AWS Cloud Security, helping with a security incident, hiring a security leader, or providing research and advise. This weekly newsletter is a take of Ayman Elsawah ([@coffeewithayman](https://twitter.com/coffeewithayman) personal reflections on the past week in cybersecurity.
 
 - [Zero Day](https://zetter.substack.com) - If you love stories about hackers, spies, cybercrime and the intersection between cybersecurity and national security, this publication should interest you - Prepared by Kim Zetter [(@KimZetter)](https://twitter.com/KimZetter)
 
