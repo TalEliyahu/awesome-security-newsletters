@@ -24,15 +24,17 @@ Periodic cyber security newsletters that capture the latest news, summaries of c
 
 - [Strategy of Security](https://strategyofsecurity.com/) - Understand the companies, ideas, and trends shaping the future of cybersecurity. Get weekly articles designed to help you think clearly and capitalize on opportunities - Cole Grolmus [(@colegrolmus)](https://twitter.com/colegrolmus)
 
-- [Zero Day](https://zetter.substack.com) - If you love stories about hackers, spies, cybercrime and the intersection between cybersecurity and national security, this publication should interest you - Prepared by Kim Zetter [(@KimZetter)](https://twitter.com/KimZetter)
+- [Last Week As A vCISO](https://www.lastweekasavciso.com/) - Every week Ayman Elsawah helps companies get through their security as a fractional CISO. Whether it’s improving their AWS Cloud Security, helping with a security incident, hiring a security leader, or providing research and advise. This weekly newsletter is a take of Ayman Elsawah ([@coffeewithayman](https://twitter.com/coffeewithayman)personal reflections on the past week in cybersecurity (aka Information Security). 
 
-- [Risky.Biz](https://srslyriskybiz.substack.com/subscribe) - It’s your weekly digest and analysis of the big stories shaping cyber policy. Prepared by Brett Winterford [(@breditor)](https://twitter.com/breditor), Tom Uren [(@tomatospy)](https://twitter.com/tomatospy), and Patrick Gray [(@riskybusiness)](https://twitter.com/riskybusiness).
+- [Zero Day](https://zetter.substack.com) - If you love stories about hackers, spies, cybercrime and the intersection between cybersecurity and national security, this publication should interest you - Prepared by Kim Zetter [(@KimZetter)](https://twitter.com/KimZetter)
 
 - [SecPro](https://security.packt.com/) - Each SecPro issue is packed with analysis of trending threats and attacks, practical tutorials, hands-on labs, and actionable content. No spam. No jibber jabber - The SecPro [(@the_secpro)](https://twitter.com/the_secpro).
 
 - [Politico Weekly Cybersecurity](https://www.politico.com/newsletters/weekly-cybersecurity) - Delivered every Monday by 10 a.m., Weekly Cybersecurity examines the latest news in cybersecurity policy and politics. 
 
 - [AdvisoryWeek](https://advisoryweek.com/) - A roundup of the security advisories that were published each week by major software vendors (Apple, Adobe, Microsoft, Oracle, etc.), built by Pete Freitag [(@pfreitag)](https://twitter.com/pfreitag).
+
+- [Risky.Biz](https://srslyriskybiz.substack.com/subscribe) - It’s your weekly digest and analysis of the big stories shaping cyber policy. Prepared by Brett Winterford [(@breditor)](https://twitter.com/breditor), Tom Uren [(@tomatospy)](https://twitter.com/tomatospy), and Patrick Gray [(@riskybusiness)](https://twitter.com/riskybusiness).
 
 
 ## News Newsletters 
