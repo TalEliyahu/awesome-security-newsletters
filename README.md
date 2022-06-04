@@ -8,7 +8,7 @@ Periodic cyber security newsletters that capture the latest news, summaries of c
 
 - [API Security Newsletter](https://apisecurity.io/) - The latest API security news, vulnerabilities and best practices by [@apisecurityio](https://twitter.com/apisecurityio).
 
-- [This Week in 4n6](https://thisweekin4n6.com/) - A collection of everything that happens on a weekly basis in the Digital Forensics and - Incident Response community - Phill Moore ([@phillmoore])(https://twitter.com/phillmoore).
+- [This Week in 4n6](https://thisweekin4n6.com/) - A collection of everything that happens on a weekly basis in the Digital Forensics and - Incident Response community - Phill Moore ([@phillmoore](https://twitter.com/phillmoore)).
 
 - [Blockchain Threat Intelligence](https://www.blockthreat.io/) - A weekly, independent newsletter to capture the latest security news, tools, events, vulnerabilities, and threats in the cryptocurrency landscape - Peter Kacherginsky [(@\_iphelix)](https://twitter.com/_iphelix).
 
