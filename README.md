@@ -20,6 +20,8 @@ Periodic cyber security newsletters that capture the latest news, summaries of c
 
 - [SecMoves](https://www.linkedin.com/newsletters/secmoves-6890336717535006720/) - SecMoves provides the latest talent shifts, funding rounds, acquisitions, and jobs across cybersecurity - [Karl Sharman](https://www.linkedin.com/in/karl-sharmancybersecurity/)
 
+- [Security, Funded](https://www.returnonsecurity.com/) - The Security, Funded Newsletter. Get the free newsletter recapping investing in the cybersecurity and privacy space delivered weekly to your inbox - Mike Privette [(@mikepsecuritee)](https://twitter.com/mikepsecuritee)
+
 - [RTCSec Newsletter](https://www.rtcsec.com/newsletter/) - A free monthly newsletter bringing you commentary and news around VoIP and WebRTC security. Covers both defensive and offensive security as they relate to Real-time Communications. Prepared by Sandro Gauci [(@sandrogauci)](https://twitter.com/sandrogauci).
 
 - [Strategy of Security](https://strategyofsecurity.com/) - Understand the companies, ideas, and trends shaping the future of cybersecurity. Get weekly articles designed to help you think clearly and capitalize on opportunities - Cole Grolmus [(@colegrolmus)](https://twitter.com/colegrolmus)
