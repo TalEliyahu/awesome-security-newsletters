@@ -36,6 +36,8 @@ Periodic cyber security newsletters that capture the latest news, summaries of c
 
 - [Risky.Biz](https://srslyriskybiz.substack.com/subscribe) - It’s your weekly digest and analysis of the big stories shaping cyber policy. Prepared by Brett Winterford [(@breditor)](https://twitter.com/breditor), Tom Uren [(@tomatospy)](https://twitter.com/tomatospy), and Patrick Gray [(@riskybusiness)](https://twitter.com/riskybusiness).
 
+- [Security Pills Newsletter](https://securitypills.beehiiv.com/) - A weekly newsletter delivered to you each Monday with the latest news related with security and smartcontracts. Get the latest vulnerabilities and researches right into your inbox, so you don't have to worry again about what happened last week. Prepared by Sebas Guerrero [(@0xroot)](https://twitter.com/0xroot)
+
 
 ## News Newsletters 
 
