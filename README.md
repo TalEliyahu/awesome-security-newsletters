@@ -63,6 +63,8 @@ Periodic cyber security newsletters that capture the latest news, summaries of c
 
 - [<hi/5>](https://info.securityjourney.com/hi5signup) - Every week they send you five carefully curated application security articles by [@SecurityJourney](https://twitter.com/SecurityJourney).
 
+- [Full Disclosure Mailing List](https://seclists.org/fulldisclosure/) - A public, vendor-neutral forum for detailed discussion of vulnerabilities and exploitation techniques, as well as tools, papers, news, and events of interest to the community.
+
 
 ## Twitter Lists
 
