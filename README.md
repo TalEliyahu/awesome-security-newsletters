@@ -16,8 +16,6 @@ Periodic cyber security newsletters that capture the latest news, summaries of c
 
 - [tl;dr sec Newsletter](https://tldrsec.com/) - Get the best tools, blog posts, conference talks, and original research right in your inbox, so you can do you job better and faster by Clint Gibler [(@clintgibler)](https://twitter.com/clintgibler).
 
-- [Shift Security Left](https://shift-security-left.curated.co/) - A free biweekly newsletter for security-aware developers covering application security, secure architecture, DevSecOps, cryptography, incidents, etc. that can be useful for builders and (to a lesser extent) for breakers. Get a deeper understanding of causes for security vulnerabilities, designing defences, inventing and implementing security controls—with Felix, an imaginary mascot and a security engineer at [(@cossaсklabs)](https://twitter.com/cossacklabs).
-
 - [Hive Five Newsletter](https://securib.ee/newsletter/) - Sharing what matters in security. Every week securibee curates InfoSec news, so you can focus on securing web apps and earning bug bounties - Pusha B [(@securibee)](https://twitter.com/securibee).
 
 - [SecMoves](https://www.linkedin.com/newsletters/secmoves-6890336717535006720/) - SecMoves provides the latest talent shifts, funding rounds, acquisitions, and jobs across cybersecurity - [Karl Sharman](https://www.linkedin.com/in/karl-sharmancybersecurity/)
@@ -25,8 +23,6 @@ Periodic cyber security newsletters that capture the latest news, summaries of c
 - [Security, Funded](https://www.returnonsecurity.com/) - Get the free newsletter recapping investing in the cybersecurity and privacy space delivered weekly to your inbox - Mike Privette [(@mikepsecuritee)](https://twitter.com/mikepsecuritee)
 
 - [RTCSec Newsletter](https://www.rtcsec.com/newsletter/) - A free monthly newsletter bringing you commentary and news around VoIP and WebRTC security. Covers both defensive and offensive security as they relate to Real-time Communications. Prepared by Sandro Gauci [(@sandrogauci)](https://twitter.com/sandrogauci).
-
-- [Strategy of Security](https://strategyofsecurity.com/) - Understand the companies, ideas, and trends shaping the future of cybersecurity. Get weekly articles designed to help you think clearly and capitalize on opportunities - Cole Grolmus [(@colegrolmus)](https://twitter.com/colegrolmus)
 
 - [Zero Day](https://zetter.substack.com) - If you love stories about hackers, spies, cybercrime and the intersection between cybersecurity and national security, this publication should interest you - Prepared by Kim Zetter [(@KimZetter)](https://twitter.com/KimZetter)
 
@@ -37,10 +33,6 @@ Periodic cyber security newsletters that capture the latest news, summaries of c
 - [AdvisoryWeek](https://advisoryweek.com/) - A roundup of the security advisories that were published each week by major software vendors (Apple, Adobe, Microsoft, Oracle, etc.), built by Pete Freitag [(@pfreitag)](https://twitter.com/pfreitag).
 
 - [Risky.Biz](https://srslyriskybiz.substack.com/subscribe) - It’s your weekly digest and analysis of the big stories shaping cyber policy. Prepared by Brett Winterford [(@breditor)](https://twitter.com/breditor), Tom Uren [(@tomatospy)](https://twitter.com/tomatospy), and Patrick Gray [(@riskybusiness)](https://twitter.com/riskybusiness).
-
-- [Security Pills Newsletter](https://securitypills.beehiiv.com/) - A weekly newsletter delivered to you each Monday with the latest news related with security and smartcontracts. Get the latest vulnerabilities and researches right into your inbox, so you don't have to worry again about what happened last week. Prepared by Sebas Guerrero [(@0xroot)](https://twitter.com/0xroot)
-
-- [CyberWeekly](https://cyberweekly.substack.com/) - A weekly roundup of cyber security, technology and digital content presented with a small amount of editorial comment
 
 - [Last Week in AWS Security](https://www.lastweekinaws.com/newsletter/) - Corey Quinn's newsletter focused on AWS Security
 
@@ -61,9 +53,12 @@ Periodic cyber security newsletters that capture the latest news, summaries of c
 
 - [Last Week in Security](https://blog.badsectorlabs.com) - A summary of the interesting cybersecurity news, techniques, tools and exploits from the previous week -  Bad Sector Labs ([@badsectorlabs](https://twitter.com/badsectorlabs)).
 
+- [CyberWeekly](https://cyberweekly.substack.com/) - A weekly roundup of cyber security, technology and digital content presented with a small amount of editorial comment
+
 - [<hi/5>](https://info.securityjourney.com/hi5signup) - Every week they send you five carefully curated application security articles by [@SecurityJourney](https://twitter.com/SecurityJourney).
 
 - [Full Disclosure Mailing List](https://seclists.org/fulldisclosure/) - A public, vendor-neutral forum for detailed discussion of vulnerabilities and exploitation techniques, as well as tools, papers, news, and events of interest to the community.
+
 
 
 ## Twitter Lists
