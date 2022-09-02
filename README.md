@@ -16,8 +16,6 @@ Periodic cyber security newsletters that capture the latest news, summaries of c
 
 - [tl;dr sec Newsletter](https://tldrsec.com/) - Get the best tools, blog posts, conference talks, and original research right in your inbox, so you can do you job better and faster by Clint Gibler [(@clintgibler)](https://twitter.com/clintgibler).
 
-- [Shift Security Left](https://shift-security-left.curated.co/) - A free biweekly newsletter for security-aware developers covering application security, secure architecture, DevSecOps, cryptography, incidents, etc. that can be useful for builders and (to a lesser extent) for breakers. Get a deeper understanding of causes for security vulnerabilities, designing defences, inventing and implementing security controls—with Felix, an imaginary mascot and a security engineer at [(@cossaсklabs)](https://twitter.com/cossacklabs).
-
 - [Hive Five Newsletter](https://securib.ee/newsletter/) - Sharing what matters in security. Every week securibee curates InfoSec news, so you can focus on securing web apps and earning bug bounties - Pusha B [(@securibee)](https://twitter.com/securibee).
 
 - [SecMoves](https://www.linkedin.com/newsletters/secmoves-6890336717535006720/) - SecMoves provides the latest talent shifts, funding rounds, acquisitions, and jobs across cybersecurity - [Karl Sharman](https://www.linkedin.com/in/karl-sharmancybersecurity/)
