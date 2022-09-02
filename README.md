@@ -36,7 +36,7 @@ Periodic cyber security newsletters that capture the latest news, summaries of c
 
 - [Last Week in AWS Security](https://www.lastweekinaws.com/newsletter/) - Corey Quinn's newsletter focused on AWS Security
 
-- - [Full Disclosure Mailing List](https://seclists.org/fulldisclosure/) - A public, vendor-neutral forum for detailed discussion of vulnerabilities and exploitation techniques, as well as tools, papers, news, and events of interest to the community.
+- [Full Disclosure Mailing List](https://seclists.org/fulldisclosure/) - A public, vendor-neutral forum for detailed discussion of vulnerabilities and exploitation techniques, as well as tools, papers, news, and events of interest to the community.
 
 - [Return on security](https://www.returnonsecurity.com/) - free newsletter recapping investing in the cybersecurity and privacy space delivered weekly.
 
