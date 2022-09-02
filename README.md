@@ -34,8 +34,6 @@ Periodic cyber security newsletters that capture the latest news, summaries of c
 
 - [Risky.Biz](https://srslyriskybiz.substack.com/subscribe) - It’s your weekly digest and analysis of the big stories shaping cyber policy. Prepared by Brett Winterford [(@breditor)](https://twitter.com/breditor), Tom Uren [(@tomatospy)](https://twitter.com/tomatospy), and Patrick Gray [(@riskybusiness)](https://twitter.com/riskybusiness).
 
-- [CyberWeekly](https://cyberweekly.substack.com/) - A weekly roundup of cyber security, technology and digital content presented with a small amount of editorial comment
-
 - [Last Week in AWS Security](https://www.lastweekinaws.com/newsletter/) - Corey Quinn's newsletter focused on AWS Security
 
 - [Return on security](https://www.returnonsecurity.com/) - free newsletter recapping investing in the cybersecurity and privacy space delivered weekly.
@@ -54,6 +52,8 @@ Periodic cyber security newsletters that capture the latest news, summaries of c
 - [U.S. Department of Homeland Security](https://public.govdelivery.com/accounts/USDHS/subscriber/new) - Sign up to receive free e-mails to get updates on a variety of U.S. Department of Homeland Security cyber security topics.
 
 - [Last Week in Security](https://blog.badsectorlabs.com) - A summary of the interesting cybersecurity news, techniques, tools and exploits from the previous week -  Bad Sector Labs ([@badsectorlabs](https://twitter.com/badsectorlabs)).
+
+- [CyberWeekly](https://cyberweekly.substack.com/) - A weekly roundup of cyber security, technology and digital content presented with a small amount of editorial comment
 
 - [<hi/5>](https://info.securityjourney.com/hi5signup) - Every week they send you five carefully curated application security articles by [@SecurityJourney](https://twitter.com/SecurityJourney).
 
