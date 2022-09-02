@@ -57,7 +57,8 @@ Periodic cyber security newsletters that capture the latest news, summaries of c
 
 - [<hi/5>](https://info.securityjourney.com/hi5signup) - Every week they send you five carefully curated application security articles by [@SecurityJourney](https://twitter.com/SecurityJourney).
 
-- [Security Pills Newsletter](https://securitypills.beehiiv.com/) - A weekly newsletter delivered to you each Monday with the latest news related with security and smartcontracts. Get the latest vulnerabilities and researches right into your inbox, so you don't have to worry again about what happened last week. Prepared by Sebas Guerrero [(@0xroot)](https://twitter.com/0xroot)
+- [Full Disclosure Mailing List](https://seclists.org/fulldisclosure/) - A public, vendor-neutral forum for detailed discussion of vulnerabilities and exploitation techniques, as well as tools, papers, news, and events of interest to the community.
+
 
 
 ## Twitter Lists
