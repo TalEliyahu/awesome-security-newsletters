@@ -61,7 +61,9 @@ Periodic cyber security newsletters that capture the latest news, summaries of c
 
 - [CyberWeekly](https://cyberweekly.substack.com/) - A weekly roundup of cyber security, technology and digital content presented with a small amount of editorial comment
 
-- [<hi/5>](https://info.securityjourney.com/hi5signup) - Every week they send you five carefully curated application security articles by [@SecurityJourney](https://twitter.com/SecurityJourney).
+- [IT Security Weekend Catch Up](https://badcyber.com/) - Every week they put together a curated list of all important security news in one place.
+
+- [<hi/5>](https://info.securityjourney.com/hi5signup) - Every week BadCyber [(@badcybercom)](https://twitter.com/badcybercom) send you five carefully curated application security articles by [@SecurityJourney](https://twitter.com/SecurityJourney).
 
 
 ## Twitter Lists
