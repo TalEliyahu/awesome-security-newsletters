@@ -16,7 +16,7 @@ Periodic cyber security newsletters that capture the latest news, summaries of c
 
 - [tl;dr sec Newsletter](https://tldrsec.com/) - Get the best tools, blog posts, conference talks, and original research right in your inbox, so you can do you job better and faster by Clint Gibler [(@clintgibler)](https://twitter.com/clintgibler).
 
-- [Bluepurple Pulse](https://bluepurple.substack.com/) - Summarised cyber defence technical content to help operational blue and purple teams be informed and protect their estates. Click to read Cyber Defence News for Blue & Purple Teams, by Ollie Whitehouse ([@ollieatnccgroup)](https://twitter.com/ollieatnccgroup), a Substack publication with thousands of readers.
+- [Bluepurple Pulse](https://bluepurple.substack.com/) - Summarised cyber defence technical content to help operational blue and purple teams be informed and protect their estates. Click to read Cyber Defence News for Blue & Purple Teams, by Ollie Whitehouse [(@ollieatnccgroup)](https://twitter.com/ollieatnccgroup), a Substack publication with thousands of readers.
 
 - [MEM and Windows Weekly Community Newsletter](https://www.danielengberg.com/category/newsletter/) - The latest Microsoft Endpoint Manager, Intune, Microsoft Endpoint Configuration Manager, Powershell, and Windows 11 news every week! Also, you will find a big selection of tools and solutions-  Daniel Engberg [(@danielclasson)](https://twitter.com/danielclasson)
 
