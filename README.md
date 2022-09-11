@@ -16,6 +16,8 @@ Periodic cyber security newsletters that capture the latest news, summaries of c
 
 - [tl;dr sec Newsletter](https://tldrsec.com/) - Get the best tools, blog posts, conference talks, and original research right in your inbox, so you can do you job better and faster by Clint Gibler [(@clintgibler)](https://twitter.com/clintgibler).
 
+- [MEM and Windows Weekly Community Newsletter](https://www.danielengberg.com/category/newsletter/) - The latest Microsoft Endpoint Manager, Intune, Microsoft Endpoint Configuration Manager, Powershell, and Windows 11 news every week! Also, you will find a big selection of tools and solutions-  Daniel Engberg [(@danielclasson)](https://twitter.com/danielclasson)
+
 - [Hive Five Newsletter](https://securib.ee/newsletter/) - Sharing what matters in security. Every week securibee curates InfoSec news, so you can focus on securing web apps and earning bug bounties - Pusha B [(@securibee)](https://twitter.com/securibee).
 
 - [SecMoves](https://www.linkedin.com/newsletters/secmoves-6890336717535006720/) - SecMoves provides the latest talent shifts, funding rounds, acquisitions, and jobs across cybersecurity - [Karl Sharman](https://www.linkedin.com/in/karl-sharmancybersecurity/)
