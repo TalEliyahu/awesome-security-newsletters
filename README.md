@@ -68,7 +68,7 @@ Periodic cyber security newsletters that capture the latest news, summaries of c
 
 ## Twitter Lists
 
-- Red Team - Get the latest tweets from red team professionals - https://www.twitter.com/i/lists/1270700272285696001
+- Red Team - Get the latest tweets from red team professionals - https://www.twitter.com/i/lists/1270700272285696001 or you can join the Telegram channel https://t.me/redteamtwitter
 
 - CERTs - Get the latest tweets from computer emergency response teams - https://twitter.com/i/lists/1267657323494797312
 
@@ -83,8 +83,4 @@ Periodic cyber security newsletters that capture the latest news, summaries of c
 - Pentest Tools - https://twitter.com/i/lists/1269682302939848705
 
 - Malware Hunters - https://twitter.com/i/lists/1269537848266383362
-
-## Telegram Channels 
-
-- Red Team Members Tweets - https://t.me/redteamtwitter
 
