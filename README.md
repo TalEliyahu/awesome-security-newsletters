@@ -16,6 +16,8 @@ Periodic cyber security newsletters that capture the latest news, summaries of c
 
 - [tl;dr sec Newsletter](https://tldrsec.com/) - Get the best tools, blog posts, conference talks, and original research right in your inbox, so you can do you job better and faster by Clint Gibler [(@clintgibler)](https://twitter.com/clintgibler).
 
+- [Security Pills Newsletter](https://securitypills.news) - A weekly newsletter delivered to you each Monday with the latest news related with security and smartcontracts. Get the latest vulnerabilities and researches right into your inbox, so you don't have to worry again about what happened last week. Prepared by Sebas Guerrero [(@0xroot)](https://twitter.com/0xroot)
+
 - [Bluepurple Pulse](https://bluepurple.substack.com/) - Summarised cyber defence technical content to help operational blue and purple teams be informed and protect their estates. Click to read Cyber Defence News for Blue & Purple Teams, by Ollie Whitehouse [(@ollieatnccgroup)](https://twitter.com/ollieatnccgroup), a Substack publication with thousands of readers.
 
 - [MEM and Windows Weekly Community Newsletter](https://www.danielengberg.com/category/newsletter/) - The latest Microsoft Endpoint Manager, Intune, Microsoft Endpoint Configuration Manager, Powershell, and Windows 11 news every week! Also, you will find a big selection of tools and solutions-  Daniel Engberg [(@danielclasson)](https://twitter.com/danielclasson)
