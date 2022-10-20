@@ -44,6 +44,8 @@ Periodic cyber security newsletters that capture the latest news, summaries of c
 
 - [Return on security](https://www.returnonsecurity.com/) - free newsletter recapping investing in the cybersecurity and privacy space delivered weekly.
 
+- [Sources & Methods](https://newsletter.sourcesmethods.com/) - Monthly digest of Cyber threat intelligence (CTI) information sources, tools, articles, and helpful tips.
+
 
 ## News Newsletters 
 
