@@ -50,6 +50,7 @@ Periodic cyber security newsletters that capture the latest news, summaries of c
 
 - [Sources & Methods](https://newsletter.sourcesmethods.com/) - Monthly digest of Cyber threat intelligence (CTI) information sources, tools, articles, and helpful tips.
 
+- [Shift Security Left](https://shift-security-left.curated.co/) - A free biweekly newsletter for security-aware developers covering application security, secure architecture, DevSecOps, cryptography, incidents, etc. that can be useful for builders and (to a lesser extent) for breakers - [(@Felix)] (https://twitter.com/ssl_newsletter) from [(@Cossack Labs)](https://twitter.com/cossacklabs). 
 
 ## News Newsletters 
 
