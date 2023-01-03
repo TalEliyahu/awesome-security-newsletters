@@ -71,6 +71,7 @@ Periodic cyber security newsletters that capture the latest news, summaries of c
 
 - [<hi/5>](https://info.securityjourney.com/hi5signup) - Every week [@SecurityJourney](https://twitter.com/SecurityJourney) sends you five carefully curated application security articles.
 
+- [CyberSec Weekly](https://cybersecweekly.com/) - A weekly cybersecurity newsletter. It contains: 3 major cybersecurity stories, a tech joke and a recommended book with a focus on quality over quantity.
 
 ## Twitter Lists
 
