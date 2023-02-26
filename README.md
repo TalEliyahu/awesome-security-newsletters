@@ -46,7 +46,7 @@ Periodic cyber security newsletters that capture the latest news, summaries of c
 
 - [Return on security](https://www.returnonsecurity.com/) - free newsletter recapping investing in the cybersecurity and privacy space delivered weekly.
 
-- [Threats Without Borders](https://substack.com/profile/4958648-matt-dotts?utm_source=about-page) - A weekly newsletter for cyber-financial crime investigators and security practitioners.
+- [Threats Without Borders](https://cyficrime.substack.com/) - A weekly newsletter for cyber-financial crime investigators and security practitioners.
 
 - [Sources & Methods](https://newsletter.sourcesmethods.com/) - Monthly digest of Cyber threat intelligence (CTI) information sources, tools, articles, and helpful tips.
 
