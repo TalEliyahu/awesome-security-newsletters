@@ -50,6 +50,8 @@ Periodic cyber security newsletters that capture the latest news, summaries of c
 
 - [Sources & Methods](https://newsletter.sourcesmethods.com/) - Monthly digest of Cyber threat intelligence (CTI) information sources, tools, articles, and helpful tips.
 
+- [Detection Engineering Weekly](https://detectionengineering.net/) - A weekly newsletter, published every Wednesday, on the latest topics, state of the art and how-tos in the art and science of Detection Engineering - ([@techyteachme](https://twitter.com/techyteachme))
+
 
 ## News Newsletters 
 
