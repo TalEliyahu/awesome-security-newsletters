@@ -71,6 +71,8 @@ Periodic cyber security newsletters that capture the latest news, summaries of c
 
 - [IT Security Weekend Catch Up](https://badcyber.com/) - Every week BadCyber [(@badcybercom)](https://twitter.com/badcybercom) put together a curated list of all important security news in one place.
 
+- [The CyberSecurity Club](https://thecybersecurity.club/) - Provides a short summary on all the key topics you may have missed for the week, covering threat intelligence, cybersecurity trends & insights, regulatory developments and vulnerability news. 
+
 
 ## Twitter Lists
 
