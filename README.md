@@ -91,7 +91,3 @@ Periodic cyber security newsletters that capture the latest news, summaries of c
 - Pentest Tools - https://twitter.com/i/lists/1269682302939848705
 
 - Malware Hunters - https://twitter.com/i/lists/1269537848266383362
-
-- Cyber DataScience - https://twitter.com/i/lists/1604866892287688705
-
-- Kubernetes Threat Detection - https://twitter.com/i/lists/1632421444347895808
