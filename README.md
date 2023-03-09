@@ -91,3 +91,6 @@ Periodic cyber security newsletters that capture the latest news, summaries of c
 - Pentest Tools - https://twitter.com/i/lists/1269682302939848705
 
 - Malware Hunters - https://twitter.com/i/lists/1269537848266383362
+
+- RastaMouse Twitter List - RedBlue - https://twitter.com/i/lists/875997733735235588
+
