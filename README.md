@@ -73,6 +73,7 @@ Periodic cyber security newsletters that capture the latest news, summaries of c
 
 - [The CyberSecurity Club](https://thecybersecurity.club/) - Provides a short summary on all the key topics you may have missed for the week, covering threat intelligence, cybersecurity trends & insights, regulatory developments and vulnerability news. 
 
+- [CyberSec Weekly](https://cybersecweekly.com/) - A weekly cybersecurity newsletter. It contains: 3 major cybersecurity stories, a tech joke and a recommended book with a focus on quality over quantity.
 
 ## Twitter Lists
 
