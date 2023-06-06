@@ -75,6 +75,8 @@ Periodic cyber security newsletters that capture the latest news, summaries of c
 
 - [CyberSec Weekly](https://cybersecweekly.com/) - A weekly cybersecurity newsletter. It contains: 3 major cybersecurity stories, a tech joke and a recommended book with a focus on quality over quantity.
 
+- [Securitynewsletter.co](https://securitynewsletter.co) - A weekly e-mail with the latest security news. About 10 items per week plus a "breaches and leaks" section. Running since 2016, curated by [@dietervds](https://twitter.com/dietervds).
+
 ## Twitter Lists
 
 - Red Team - Get the latest tweets from red team professionals - https://www.twitter.com/i/lists/1270700272285696001 or you can join the Telegram channel https://t.me/redteamtwitter
