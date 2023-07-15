@@ -48,7 +48,7 @@ Periodic cyber security newsletters that capture the latest news, summaries of c
 
 - [Threats Without Borders](https://cyficrime.substack.com/) - A weekly newsletter for cyber-financial crime investigators and security practitioners.
 
-- [Sources & Methods](https://newsletter.sourcesmethods.com/) - Monthly digest of Cyber threat intelligence (CTI) information sources, tools, articles, and helpful tips.
+- [Sources & Methods](https://sourcesmethods.com/) - Monthly digest of Cyber threat intelligence (CTI) information sources, tools, articles, and helpful tips.
 
 - [Detection Engineering Weekly](https://detectionengineering.net/) - A weekly newsletter, published every Wednesday, on the latest topics, state of the art and how-tos in the art and science of Detection Engineering - ([@techyteachme](https://twitter.com/techyteachme))
 
