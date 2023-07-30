@@ -52,6 +52,7 @@ Periodic cyber security newsletters that capture the latest news, summaries of c
 
 - [Detection Engineering Weekly](https://detectionengineering.net/) - A weekly newsletter, published every Wednesday, on the latest topics, state of the art and how-tos in the art and science of Detection Engineering - ([@techyteachme](https://twitter.com/techyteachme))
 
+- [Vulnerable U](https://vulnu.mattjay.com/) - A weekly security newsletter "building resilience" - by Matt Johansen ([@mattjay](https://twitter.com/mattjay))
 
 ## News Newsletters 
 
