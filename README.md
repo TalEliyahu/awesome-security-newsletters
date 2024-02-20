@@ -3,6 +3,7 @@
 Periodic cyber security newsletters that capture the latest news, summaries of conference talks, research, best practices, tools, events, vulnerabilities, and analysis of trending threats and attacks
 
 ## Niche Newsletters 
+- [Security Talks Digest](https://talks.donsan.org) - Newsletter, that aggregates materials from the security conferences around the world and deliver them in form of a weekly report - David Sepashvili ([@donsansec](https://twitter.com/donsansec))
 
 - [The Cloud Security Reading List](https://cloudseclist.com/) - A low volume newsletter (delivered once per week) that highlights security-related news focused on the cloud native landscape, hand curated by Marco Lancini ([@lancinimarco](https://twitter.com/lancinimarco)).
 
