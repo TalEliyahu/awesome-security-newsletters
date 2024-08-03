@@ -4,6 +4,8 @@ Periodic cyber security newsletters that capture the latest news, summaries of c
 
 ## Niche Newsletters 
 
+- - [InfoSec Dot](https://www.infosecdot.com/subscribe) - By far the most comprehensive Cybersecurity newsletter delivered every Monday and Thursday, hand curated by Dot ([InfoSec Dot](https://www.linkedin.com/company/infosec-dot/)).
+
 - [The Cloud Security Reading List](https://cloudseclist.com/) - A low volume newsletter (delivered once per week) that highlights security-related news focused on the cloud native landscape, hand curated by Marco Lancini ([@lancinimarco](https://twitter.com/lancinimarco)).
 
 - [API Security Newsletter](https://apisecurity.io/) - The latest API security news, vulnerabilities and best practices by [@apisecurityio](https://twitter.com/apisecurityio).
