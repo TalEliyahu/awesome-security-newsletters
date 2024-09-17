@@ -4,8 +4,6 @@ Periodic cyber security newsletters that capture the latest news, summaries of c
 
 ## Niche Newsletters 
 
-- [Phishing Stories](https://phishingstories.beehiiv.com/subscribe/) - The One Email CIOs & CISOs Actually Want Their Employees to Open ([@phishingstories](https://twitter.com/phishingstories)).
-
 - [The Cloud Security Reading List](https://cloudseclist.com/) - A low volume newsletter (delivered once per week) that highlights security-related news focused on the cloud native landscape, hand curated by Marco Lancini ([@lancinimarco](https://twitter.com/lancinimarco)).
 
 - [API Security Newsletter](https://apisecurity.io/) - The latest API security news, vulnerabilities and best practices by [@apisecurityio](https://twitter.com/apisecurityio).
