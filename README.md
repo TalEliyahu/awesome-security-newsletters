@@ -55,7 +55,9 @@ Periodic cyber security newsletters that capture the latest news, summaries of c
 - [Vulnerable U](https://vulnu.mattjay.com/) - A weekly security newsletter "building resilience" - by Matt Johansen ([@mattjay](https://twitter.com/mattjay))
 
 - [Secure All Software](https://www.secureallsoftware.com/) - A weekly newsletter, published every Thursday, on security engineering, cloud and DevSecOps-related deep dives. Opinionated and sometimes fairly technical. - ([Andreas Tiefenthaler]([https://twitter.com/techyteachme)](https://www.linkedin.com/in/andreastiefenthaler/))
-  
+
+- [Node.js Security Newsletter](https://www.nodejs-security.com/newsletter) - A bi-weekly newsletter on JavaScript & web security insights, latest security vulnerabilities, hands-on secure code insights, npm ecosystem incidents, Node.js runtime feature updates, Bun and Deno runtime updates, secure coding best practices, malware, malicious packages, and more.
+
 ## News Newsletters 
 
 - [This week in security](https://this.weekinsecurity.com/) - A weekly tl;dr cybersecurity newsletter of all the major stuff you missed, but really need to know. It includes news, the happy corner, a featured cyber cat (or friend), and more. It's sent every Sunday, and is completely free. Prepared by Zack Whittaker [(@zackwhittaker)](https://twitter.com/zackwhittaker).
