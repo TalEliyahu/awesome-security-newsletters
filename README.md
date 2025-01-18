@@ -80,6 +80,11 @@ Periodic cyber security newsletters that capture the latest news, summaries of c
 
 - [Securitynewsletter.co](https://securitynewsletter.co) - A weekly e-mail with the latest security news. About 10 items per week plus a "breaches and leaks" section. Running since 2016, curated by [@dietervds](https://twitter.com/dietervds).
 
+## Twitter Communities 
+
+- Red Team - https://x.com/i/communities/1874572391344488583
+- Artificial intelligence Security - https://x.com/i/communities/1874532581292511652
+
 ## Twitter Lists
 
 - Red Team - Get the latest tweets from red team professionals - https://www.twitter.com/i/lists/1270700272285696001 or you can join the Telegram channel https://t.me/redteamtwitter
