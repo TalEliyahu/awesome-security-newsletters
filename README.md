@@ -80,10 +80,15 @@ Periodic cyber security newsletters that capture the latest news, summaries of c
 
 - [Securitynewsletter.co](https://securitynewsletter.co) - A weekly e-mail with the latest security news. About 10 items per week plus a "breaches and leaks" section. Running since 2016, curated by [@dietervds](https://twitter.com/dietervds).
 
+## LinkedIn Groups
+
+- Artificial Intelligence Security - https://www.linkedin.com/groups/14545517/
+- Web3 Security - https://www.linkedin.com/groups/14549421/ 
+
 ## Twitter Communities 
 
 - Red Team - https://x.com/i/communities/1874572391344488583
-- Artificial intelligence Security - https://x.com/i/communities/1874532581292511652
+- Artificial Intelligence Security - https://x.com/i/communities/1874532581292511652 
 
 ## Twitter Lists
 
