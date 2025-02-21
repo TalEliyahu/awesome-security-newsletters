@@ -71,7 +71,7 @@ Periodic cyber security newsletters that capture the latest news, summaries of c
 
 ## Twitter Lists
 
-- Red Team - Get the latest tweets from red team professionals - https://www.twitter.com/i/lists/1270700272285696001 or you can join the Telegram channel https://t.me/redteamtwitter
+- Red Team - Get the latest tweets from red team professionals - https://www.twitter.com/i/lists/1270700272285696001
 
 - CERTs - Get the latest tweets from computer emergency response teams - https://twitter.com/i/lists/1267657323494797312
 
