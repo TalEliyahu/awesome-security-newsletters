@@ -69,11 +69,6 @@ Periodic cyber security newsletters that capture the latest news, summaries of c
 - Artificial Intelligence Security - https://www.linkedin.com/groups/14545517/
 - Web3 Security - https://www.linkedin.com/groups/14549421/ 
 
-## Twitter Communities 
-
-- Red Team - https://x.com/i/communities/1874572391344488583
-- Artificial Intelligence Security - https://x.com/i/communities/1874532581292511652 
-
 ## Twitter Lists
 
 - Red Team - Get the latest tweets from red team professionals - https://www.twitter.com/i/lists/1270700272285696001 or you can join the Telegram channel https://t.me/redteamtwitter
