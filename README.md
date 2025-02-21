@@ -44,8 +44,6 @@ Periodic cyber security newsletters that capture the latest news, summaries of c
 
 - [Secure All Software](https://www.secureallsoftware.com/) - A weekly newsletter, published every Thursday, on security engineering, cloud and DevSecOps-related deep dives. Opinionated and sometimes fairly technical - by Andreas Tiefenthaler ([@techyteachme](https://twitter.com/techyteachme))
 
-- [tl;dr sec Newsletter](https://tldrsec.com/) - Get the best tools, blog posts, conference talks, and original research right in your inbox, so you can do you job better and faster by Clint Gibler [(@clintgibler)](https://twitter.com/clintgibler).
-
 - [Infostealers by Hudson Rock](https://www.infostealers.com/) - A weekly newsletter related to news and publications about Infostealers. 
   
 ## News Newsletters 
@@ -61,6 +59,8 @@ Periodic cyber security newsletters that capture the latest news, summaries of c
 - [U.S. Department of Homeland Security](https://public.govdelivery.com/accounts/USDHS/subscriber/new) - Sign up to receive free e-mails to get updates on a variety of U.S. Department of Homeland Security cyber security topics.
 
 - [Last Week in Security](https://blog.badsectorlabs.com) - A summary of the interesting cybersecurity news, techniques, tools and exploits from the previous week -  Bad Sector Labs ([@badsectorlabs](https://twitter.com/badsectorlabs)).
+
+- [tl;dr sec Newsletter](https://tldrsec.com/) - Get the best tools, blog posts, conference talks, and original research right in your inbox, so you can do you job better and faster by Clint Gibler [(@clintgibler)](https://twitter.com/clintgibler).
 
 - [CyberWeekly](https://cyberweekly.substack.com/) - A weekly roundup of cyber security, technology and digital content presented with a small amount of editorial comment
 
