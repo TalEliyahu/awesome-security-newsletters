@@ -14,10 +14,6 @@ Periodic cyber security newsletters that capture the latest news, summaries of c
 
 - [AWS Security Digest](https://asd.zoph.io) - Adopt a slow-tech 🐌 approach by reading only essential info on AWS Security landscape – once a week –  on Monday.
 
-- [tl;dr sec Newsletter](https://tldrsec.com/) - Get the best tools, blog posts, conference talks, and original research right in your inbox, so you can do you job better and faster by Clint Gibler [(@clintgibler)](https://twitter.com/clintgibler).
-
-- [Security Pills Newsletter](https://securitypills.news) - A weekly newsletter delivered to you each Monday with the latest news related with security and smartcontracts. Get the latest vulnerabilities and researches right into your inbox, so you don't have to worry again about what happened last week. Prepared by Sebas Guerrero [(@0xroot)](https://twitter.com/0xroot)
-
 - [MEM and Windows Weekly Community Newsletter](https://www.danielengberg.com/category/newsletter/) - The latest Microsoft Endpoint Manager, Intune, Microsoft Endpoint Configuration Manager, Powershell, and Windows 11 news every week! Also, you will find a big selection of tools and solutions-  Daniel Engberg [(@danielclasson)](https://twitter.com/danielclasson)
 
 - [Hive Five Newsletter](https://securib.ee/newsletter/) - Sharing what matters in security. Every week securibee curates InfoSec news, so you can focus on securing web apps and earning bug bounties - Pusha B [(@securibee)](https://twitter.com/securibee).
@@ -53,6 +49,8 @@ Periodic cyber security newsletters that capture the latest news, summaries of c
 - [Vulnerable U](https://vulnu.mattjay.com/) - A weekly security newsletter "building resilience" - by Matt Johansen ([@mattjay](https://twitter.com/mattjay))
 
 - [Secure All Software](https://www.secureallsoftware.com/) - A weekly newsletter, published every Thursday, on security engineering, cloud and DevSecOps-related deep dives. Opinionated and sometimes fairly technical - by Andreas Tiefenthaler ([@techyteachme](https://twitter.com/techyteachme))
+
+- [tl;dr sec Newsletter](https://tldrsec.com/) - Get the best tools, blog posts, conference talks, and original research right in your inbox, so you can do you job better and faster by Clint Gibler [(@clintgibler)](https://twitter.com/clintgibler).
 
 - [Infostealers by Hudson Rock](https://www.infostealers.com/) - A weekly newsletter related to news and publications about Infostealers. 
   
