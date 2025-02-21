@@ -42,7 +42,7 @@ Periodic cyber security newsletters that capture the latest news, summaries of c
 
 - [Vulnerable U](https://vulnu.mattjay.com/) - A weekly security newsletter "building resilience" - by Matt Johansen ([@mattjay](https://twitter.com/mattjay))
 
-- [Infostealers by Hudson Rock](https://www.infostealers.com/) - A weekly newsletter related to news and publications about Infostealers. 
+- [Infostealers by Hudson Rock](https://www.infostealers.com/info-stealers-reports/) - A weekly newsletter related to news and publications about Infostealers. 
   
 ## News Newsletters 
 
