@@ -42,8 +42,6 @@ Periodic cyber security newsletters that capture the latest news, summaries of c
 
 - [Vulnerable U](https://vulnu.mattjay.com/) - A weekly security newsletter "building resilience" - by Matt Johansen ([@mattjay](https://twitter.com/mattjay))
 
-- [Secure All Software](https://www.secureallsoftware.com/) - A weekly newsletter, published every Thursday, on security engineering, cloud and DevSecOps-related deep dives. Opinionated and sometimes fairly technical - by Andreas Tiefenthaler ([@techyteachme](https://twitter.com/techyteachme))
-
 - [Infostealers by Hudson Rock](https://www.infostealers.com/) - A weekly newsletter related to news and publications about Infostealers. 
   
 ## News Newsletters 
