@@ -46,6 +46,8 @@ Periodic cyber security newsletters that capture the latest news, summaries of c
   
 ## News Newsletters 
 
+- [The CyberSecurity Club](https://thecybersecurityclub.beehiiv.com/) - Provides a short summary on all the key topics you may have missed for the week, covering threat intelligence, cybersecurity trends & insights, regulatory developments and vulnerability news.
+  
 - [Last Week in Security](https://blog.badsectorlabs.com) - A summary of the interesting cybersecurity news, techniques, tools and exploits from the previous week -  Bad Sector Labs ([@badsectorlabs](https://twitter.com/badsectorlabs)).
 
 - [This week in security](https://this.weekinsecurity.com/) - A weekly tl;dr cybersecurity newsletter of all the major stuff you missed, but really need to know. It includes news, the happy corner, a featured cyber cat (or friend), and more. It's sent every Sunday, and is completely free. Prepared by Zack Whittaker [(@zackwhittaker)](https://twitter.com/zackwhittaker).
@@ -61,10 +63,6 @@ Periodic cyber security newsletters that capture the latest news, summaries of c
 - [Unsupervised Learning Community](https://danielmiessler.com/newsletter/) - Daniel spends 20+ hours a week consuming content, and every Monday morning he sends a summary of the most important stories - Daniel Miessler [(@DanielMiessler)](https://twitter.com/DanielMiessler)
 
 - [IT Security Weekend Catch Up](https://badcyber.com/) - Every week BadCyber [(@badcybercom)](https://twitter.com/badcybercom) put together a curated list of all important security news in one place.
-
-- [The CyberSecurity Club](https://thecybersecurityclub.beehiiv.com/) - Provides a short summary on all the key topics you may have missed for the week, covering threat intelligence, cybersecurity trends & insights, regulatory developments and vulnerability news. 
-
-- [CyberSec Weekly](https://cybersecweekly.com/) - A weekly cybersecurity newsletter. It contains: 3 major cybersecurity stories, a tech joke and a recommended book with a focus on quality over quantity.
 
 - [Securitynewsletter.co](https://securitynewsletter.co) - A weekly e-mail with the latest security news. About 10 items per week plus a "breaches and leaks" section. Running since 2016, curated by [@dietervds](https://twitter.com/dietervds).
 
