@@ -64,8 +64,6 @@ Periodic cyber security newsletters that capture the latest news, summaries of c
 
 - [IT Security Weekend Catch Up](https://badcyber.com/) - Every week BadCyber [(@badcybercom)](https://twitter.com/badcybercom) put together a curated list of all important security news in one place.
 
-- [Securitynewsletter.co](https://securitynewsletter.co) - A weekly e-mail with the latest security news. About 10 items per week plus a "breaches and leaks" section. Running since 2016, curated by [@dietervds](https://twitter.com/dietervds).
-
 ## LinkedIn Groups
 
 - Artificial Intelligence Security - https://www.linkedin.com/groups/14545517/
