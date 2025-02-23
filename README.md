@@ -18,8 +18,6 @@ Periodic cyber security newsletters that capture the latest news, summaries of c
 
 - [MEM and Windows Weekly Community Newsletter](https://www.danielengberg.com/category/newsletter/) - The latest Microsoft Endpoint Manager, Intune, Microsoft Endpoint Configuration Manager, Powershell, and Windows 11 news every week! Also, you will find a big selection of tools and solutions-  Daniel Engberg [(@danielclasson)](https://twitter.com/danielclasson)
 
-- [Hive Five Newsletter](https://securib.ee/newsletter/) - Sharing what matters in security. Every week securibee curates InfoSec news, so you can focus on securing web apps and earning bug bounties - Pusha B [(@securibee)](https://twitter.com/securibee).
-
 - [Security, Funded](https://www.returnonsecurity.com/) - Get the free newsletter recapping investing in the cybersecurity and privacy space delivered weekly to your inbox - Mike Privette [(@mikepsecuritee)](https://twitter.com/mikepsecuritee)
 
 - [RTCSec Newsletter](https://www.rtcsec.com/newsletter/) - A free monthly newsletter bringing you commentary and news around VoIP and WebRTC security. Covers both defensive and offensive security as they relate to Real-time Communications. Prepared by Sandro Gauci [(@sandrogauci)](https://twitter.com/sandrogauci).
@@ -53,6 +51,8 @@ Periodic cyber security newsletters that capture the latest news, summaries of c
 - [Last Week in Security](https://blog.badsectorlabs.com) - A summary of the interesting cybersecurity news, techniques, tools and exploits from the previous week -  Bad Sector Labs ([@badsectorlabs](https://twitter.com/badsectorlabs)).
 
 - [This week in security](https://this.weekinsecurity.com/) - A weekly tl;dr cybersecurity newsletter of all the major stuff you missed, but really need to know. It includes news, the happy corner, a featured cyber cat (or friend), and more. It's sent every Sunday, and is completely free. Prepared by Zack Whittaker [(@zackwhittaker)](https://twitter.com/zackwhittaker).
+
+- [Hive Five Newsletter](https://securib.ee/newsletter/) - Sharing what matters in security. Every week securibee curates InfoSec news, so you can focus on securing web apps and earning bug bounties - Pusha B [(@securibee)](https://twitter.com/securibee).
 
 - [tl;dr sec Newsletter](https://tldrsec.com/) - Clint Gibler [(@clintgibler)](https://twitter.com/clintgibler) covers the latest cybersecurity tools, research, and best practices. 
 
