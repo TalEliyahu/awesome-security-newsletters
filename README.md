@@ -75,7 +75,7 @@ Periodic cyber security newsletters that capture the latest news, summaries of c
 
 ## Telegram Channaels 
 
-AI Securtity - https://t.me/AISecHub
+AI Security - https://t.me/AISecHub
 
 ## Twitter Lists
 
