@@ -2,6 +2,8 @@
 
 Periodic cyber security newsletters that capture the latest news, summaries of conference talks, research, best practices, tools, events, vulnerabilities, and analysis of trending threats and attacks
 
+> Our new project: Awesome AI Security - https://github.com/TalEliyahu/Awesome-AI-Security 
+
 ## Niche Newsletters 
 
 - [The Cloud Security Reading List](https://cloudseclist.com/past-issues/) - A low volume newsletter (delivered once per week) that highlights security-related news focused on the cloud native landscape, hand curated by Marco Lancini ([@lancinimarco](https://twitter.com/lancinimarco)).
