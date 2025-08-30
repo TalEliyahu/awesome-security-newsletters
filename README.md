@@ -2,7 +2,8 @@
 
 Periodic cyber security newsletters that capture the latest news, summaries of conference talks, research, best practices, tools, events, vulnerabilities, and analysis of trending threats and attacks
 
-> 🔗 **Related:** **Awesome AI Security** — curated resources for securing AI systems: https://github.com/TalEliyahu/Awesome-AI-Security  
+ > 🔗 Related: **Awesome AI Security** — curated resources for securing AI systems: https://github.com/TalEliyahu/Awesome-AI-Security
+
 
 
 ## Niche Newsletters 
