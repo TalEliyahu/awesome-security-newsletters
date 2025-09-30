@@ -62,8 +62,6 @@ Periodic cyber security newsletters that capture the latest news, summaries of c
 
 - [Hive Five Newsletter](https://securib.ee/newsletter/) - Sharing what matters in security. Every week securibee curates InfoSec news, so you can focus on securing web apps and earning bug bounties - Pusha B [(@securibee)](https://twitter.com/securibee).
 
-- [tl;dr sec Newsletter](https://tldrsec.com/) - Clint Gibler [(@clintgibler)](https://twitter.com/clintgibler) covers the latest cybersecurity tools, research, and best practices. 
-
 - [SANS Newsletters](https://www.sans.org/newsletters/) - SANS offers three newsletters to keep you up-to-date on the latest cybersecurity news, cyber attacks and vulnerabilities, and security awareness tips and stories.
 
 - [U.S. Department of Homeland Security](https://public.govdelivery.com/accounts/USDHS/subscriber/new) - Sign up to receive free e-mails to get updates on a variety of U.S. Department of Homeland Security cyber security topics.
