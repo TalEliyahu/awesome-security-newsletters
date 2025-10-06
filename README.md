@@ -8,13 +8,13 @@ Periodic cyber security newsletters that capture the latest news, summaries of c
 
 ## Niche Newsletters 
 
+- [AI Security Newsletter](https://www.linkedin.com/newsletters/adversarial-ai-digest-7298813894498598912/) - A digest of AI security research, threats, governance challenges, and best practices for securing AI systems.  
+
 - [The Cloud Security Reading List](https://cloudseclist.com/past-issues/) - A low volume newsletter (delivered once per week) that highlights security-related news focused on the cloud native landscape, hand curated by Marco Lancini ([@lancinimarco](https://twitter.com/lancinimarco)).
 
 - [API Security Newsletter](https://apisecurity.io/) - The latest API security news, vulnerabilities and best practices by [@apisecurityio](https://twitter.com/apisecurityio).
 
 - [This Week in 4n6](https://thisweekin4n6.com/) - A collection of everything that happens on a weekly basis in the Digital Forensics and - Incident Response community - Phill Moore ([@phillmoore](https://twitter.com/phillmoore)).
-
-- [Adversarial AI Digest](https://www.linkedin.com/newsletters/adversarial-ai-digest-7298813894498598912/) - A digest of AI security research, threats, governance challenges, and best practices for securing AI systems.  
 
 - [Blockchain Threat Intelligence](https://www.blockthreat.io/) - A weekly, independent newsletter to capture the latest security news, tools, events, vulnerabilities, and threats in the cryptocurrency landscape - Peter Kacherginsky [(@\_iphelix)](https://twitter.com/_iphelix).
 
