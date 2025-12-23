@@ -49,6 +49,8 @@ Periodic cyber security newsletters that capture the latest news, summaries of c
 - [Infostealers by Hudson Rock](https://www.infostealers.com/info-stealers-reports/) - A weekly newsletter related to news and publications about Infostealers.
 
 - [Venture in Security](https://ventureinsecurity.net/) - A free weekly newsletter about the business side of security (startups, ecosystem, venture capital, investing, markets etc.)
+
+- [tl;dr sec](https://tldrsec.com/) - Keep up with Cybersecurity in 7 min/week. Join >90,000 security professionals getting the best tools, talks, and resources right in their inbox for free.
   
 ## News Newsletters 
 
