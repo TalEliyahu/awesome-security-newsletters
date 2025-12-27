@@ -49,6 +49,8 @@ Periodic cyber security newsletters that capture the latest news, summaries of c
 - [Infostealers by Hudson Rock](https://www.infostealers.com/info-stealers-reports/) - A weekly newsletter related to news and publications about Infostealers.
 
 - [Venture in Security](https://ventureinsecurity.net/) - A free weekly newsletter about the business side of security (startups, ecosystem, venture capital, investing, markets etc.)
+
+- [MI-One by Metron Security](https://hub.metronlabs.com/newsletter/) - It's your exclusive monthly peek into the inner world of security system integrations and automation.
   
 ## News Newsletters 
 
