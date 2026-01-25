@@ -76,6 +76,8 @@ Periodic cyber security newsletters that capture the latest news, summaries of c
 
 - [IT Security Weekend Catch Up](https://badcyber.com/) - Every week BadCyber [(@badcybercom)](https://twitter.com/badcybercom) put together a curated list of all important security news in one place.
 
+- [ThreatCluster Daily Digest](https://threatcluster.io/digest) - A free daily newsletter to capture the latest threat intelligence, emerging malware, vulnerabilities, and trending attacks aggregated from 5000+ curated sources with automated deduplication and entity extraction.
+
 ## LinkedIn Groups:
 
 - Artificial Intelligence Security - https://www.linkedin.com/groups/14545517/
