@@ -5,7 +5,6 @@ Periodic cyber security newsletters that capture the latest news, summaries of c
  > 🔗 Related: **Awesome AI Security** — curated resources for securing AI systems: https://github.com/TalEliyahu/Awesome-AI-Security
  
 
-
 ## Niche Newsletters 
 
 - [AI Security Newsletter](https://www.linkedin.com/newsletters/adversarial-ai-digest-7298813894498598912/) - A digest of AI security research, threats, governance challenges, and best practices for securing AI systems.  
