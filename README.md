@@ -71,6 +71,8 @@ Periodic cyber security newsletters that capture the latest news, summaries of c
 
 - [IT Security Weekend Catch Up](https://badcyber.com/) - Every week BadCyber [(@badcybercom)](https://twitter.com/badcybercom) put together a curated list of all important security news in one place.
 
+- [defend.network](https://defend.network/) - Free daily cyber threat briefings and weekly vulnerability reports, with every CVE verified against NVD and CISA KEV.
+
 ## LinkedIn Groups:
 
 - Artificial Intelligence Security - https://www.linkedin.com/groups/14545517/
