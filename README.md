@@ -17,11 +17,9 @@ Periodic cyber security newsletters that capture the latest news, summaries of c
 
 - [Blockchain Threat Intelligence](https://www.blockthreat.io/) - A weekly, independent newsletter to capture the latest security news, tools, events, vulnerabilities, and threats in the cryptocurrency landscape - Peter Kacherginsky [(@\_iphelix)](https://twitter.com/_iphelix).
 
-- [AWS Security Digest](https://asd.zoph.io) - Adopt a slow-tech 🐌 approach by reading only essential info on AWS Security landscape – once a week –  on Monday.
+- [AWS Security Digest](https://awssecuritydigest.com/) - Adopt a slow-tech 🐌 approach by reading only essential info on AWS Security landscape – once a week –  on Monday.
 
 - [MEM and Windows Weekly Community Newsletter](https://www.danielengberg.com/category/newsletter/) - The latest Microsoft Endpoint Manager, Intune, Microsoft Endpoint Configuration Manager, Powershell, and Windows 11 news every week! Also, you will find a big selection of tools and solutions-  Daniel Engberg [(@danielclasson)](https://twitter.com/danielclasson)
-
-- [Security, Funded](https://www.returnonsecurity.com/) - Get the free newsletter recapping investing in the cybersecurity and privacy space delivered weekly to your inbox - Mike Privette [(@mikepsecuritee)](https://twitter.com/mikepsecuritee)
 
 - [GRC Engineer](https://grcengineer.com) - The weekly newsletter engineering the future of the security GRC field, where leaders from the biggest tech companies improve their GRC programs - Ayoub Fandi
 
@@ -31,7 +29,7 @@ Periodic cyber security newsletters that capture the latest news, summaries of c
 
 - [AdvisoryWeek](https://advisoryweek.com/) - A roundup of the security advisories that were published each week by major software vendors (Apple, Adobe, Microsoft, Oracle, etc.), built by Pete Freitag [(@pfreitag)](https://twitter.com/pfreitag).
 
-- [Risky.Biz](https://srslyriskybiz.substack.com/subscribe) - It’s your weekly digest and analysis of the big stories shaping cyber policy. Prepared by Brett Winterford [(@breditor)](https://twitter.com/breditor), Tom Uren [(@tomatospy)](https://twitter.com/tomatospy), and Patrick Gray [(@riskybusiness)](https://twitter.com/riskybusiness).
+- [Risky.Biz](https://news.risky.biz/) - It’s your weekly digest and analysis of the big stories shaping cyber policy. Prepared by Brett Winterford [(@breditor)](https://twitter.com/breditor), Tom Uren [(@tomatospy)](https://twitter.com/tomatospy), and Patrick Gray [(@riskybusiness)](https://twitter.com/riskybusiness).
 
 - [Last Week in AWS Security](https://www.lastweekinaws.com/newsletter/) - Corey Quinn's newsletter focused on AWS Security
 
@@ -40,8 +38,6 @@ Periodic cyber security newsletters that capture the latest news, summaries of c
 - [Return on security](https://www.returnonsecurity.com/) - free newsletter recapping investing in the cybersecurity and privacy space delivered weekly.
 
 - [Threats Without Borders](https://cyficrime.substack.com/) - A weekly newsletter for cyber-financial crime investigators and security practitioners.
-
-- [Sources & Methods](https://sourcesmethods.com/) - Monthly digest of Cyber threat intelligence (CTI) information sources, tools, articles, and helpful tips - by Matthew Conway ([@mattreduce](https://mastodon.social/@mattreduce))
 
 - [Detection Engineering Weekly](https://detectionengineering.net/) - A weekly newsletter, published every Wednesday, on the latest topics, state of the art and how-tos in the art and science of Detection Engineering - ([@techyteachme](https://twitter.com/techyteachme))
 
@@ -70,8 +66,6 @@ Periodic cyber security newsletters that capture the latest news, summaries of c
 - [SANS Newsletters](https://www.sans.org/newsletters/) - SANS offers three newsletters to keep you up-to-date on the latest cybersecurity news, cyber attacks and vulnerabilities, and security awareness tips and stories.
 
 - [U.S. Department of Homeland Security](https://public.govdelivery.com/accounts/USDHS/subscriber/new) - Sign up to receive free e-mails to get updates on a variety of U.S. Department of Homeland Security cyber security topics.
-
-- [CyberWeekly](https://cyberweekly.substack.com/) - A weekly roundup of cyber security, technology and digital content presented with a small amount of editorial comment
 
 - [Unsupervised Learning Community](https://danielmiessler.com/newsletter/) - Daniel spends 20+ hours a week consuming content, and every Monday morning he sends a summary of the most important stories - Daniel Miessler [(@DanielMiessler)](https://twitter.com/DanielMiessler)
 
