@@ -46,7 +46,8 @@ Periodic cyber security newsletters that capture the latest news, summaries of c
 - [Venture in Security](https://ventureinsecurity.net/) - A free weekly newsletter about the business side of security (startups, ecosystem, venture capital, investing, markets etc.)
 
 - [MI-One by Metron Security](https://hub.metronlabs.com/newsletter/) - It's your exclusive monthly peek into the inner world of security system integrations and automation.
-  
+- [Helium MCP](https://github.com/connerlambden/helium-mcp) — Real-time news with 37-dimension bias scoring, ML options pricing, and live market data. [Interactive demo](https://connerlambden.github.io/helium-news-explorer/) · [REST API](https://heliumtrades.com/mcp-page/)
+
 ## News Newsletters 
 
 - [The CyberSecurity Club](https://thecybersecurityclub.beehiiv.com/) - Provides a short summary on all the key topics you may have missed for the week, covering threat intelligence, cybersecurity trends & insights, regulatory developments and vulnerability news.
