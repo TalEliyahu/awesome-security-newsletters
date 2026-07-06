@@ -37,8 +37,6 @@ Periodic cyber security newsletters that capture the latest news, summaries of c
 
 - [Threats Without Borders](https://cyficrime.substack.com/) - A weekly newsletter for cyber-financial crime investigators and security practitioners.
 
-- [Detection Engineering Weekly](https://detectionengineering.net/) - A weekly newsletter, published every Wednesday, on the latest topics, state of the art and how-tos in the art and science of Detection Engineering - ([@techyteachme](https://twitter.com/techyteachme))
-
 - [Infostealers by Hudson Rock](https://www.infostealers.com/info-stealers-reports/) - A weekly newsletter related to news and publications about Infostealers.
 
 - [Venture in Security](https://ventureinsecurity.net/) - A free weekly newsletter about the business side of security (startups, ecosystem, venture capital, investing, markets etc.)
