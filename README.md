@@ -57,7 +57,7 @@ Periodic cyber security newsletters that capture the latest news, summaries of c
 
 - [This week in security](https://this.weekinsecurity.com/) - A weekly tl;dr cybersecurity newsletter of all the major stuff you missed, but really need to know. It includes news, the happy corner, a featured cyber cat (or friend), and more. It's sent every Sunday, and is completely free. Prepared by Zack Whittaker [(@zackwhittaker)](https://twitter.com/zackwhittaker).
 
-- [Hive Five Newsletter](https://securib.ee/newsletter/) - Sharing what matters in security. Every week securibee curates InfoSec news, so you can focus on securing web apps and earning bug bounties - Pusha B [(@securibee)](https://twitter.com/securibee).
+- [Hive Five Newsletter](https://www.hivefive.community/t/Newsletter) - Sharing what matters in security. Every week securibee curates InfoSec news, so you can focus on securing web apps and earning bug bounties - Pusha B [(@securibee)](https://twitter.com/securibee).
 
 - [SANS Newsletters](https://www.sans.org/newsletters/) - SANS offers three newsletters to keep you up-to-date on the latest cybersecurity news, cyber attacks and vulnerabilities, and security awareness tips and stories.
 
