@@ -42,6 +42,8 @@ Periodic cyber security newsletters that capture the latest news, summaries of c
 - [Venture in Security](https://ventureinsecurity.net/) - A free weekly newsletter about the business side of security (startups, ecosystem, venture capital, investing, markets etc.)
 
 - [MI-One by Metron Security](https://hub.metronlabs.com/newsletter/) - It's your exclusive monthly peek into the inner world of security system integrations and automation.
+
+- [HoneyLabs Weekly Threat Report](https://honeylabs.net/blog) - A weekly report generated from a live honeypot network: port movers, KEV and recent CVE probes being exploited in the wild, attack paths to grep your own logs for, and captured malware. Free by email or [RSS](https://honeylabs.net/blog/rss.xml).
   
 ## News Newsletters 
 
