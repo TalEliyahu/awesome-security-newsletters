@@ -64,6 +64,7 @@ Periodic cyber security newsletters that capture the latest news, summaries of c
 - [Unsupervised Learning Community](https://danielmiessler.com/newsletter/) - Daniel spends 20+ hours a week consuming content, and every Monday morning he sends a summary of the most important stories - Daniel Miessler [(@DanielMiessler)](https://twitter.com/DanielMiessler)
 
 - [IT Security Weekend Catch Up](https://badcyber.com/) - Every week BadCyber [(@badcybercom)](https://twitter.com/badcybercom) put together a curated list of all important security news in one place.
+ - [Cyberpresso](https://cyberpresso.com) - A free daily cybersecurity newsletter covering the latest threats, breaches, tools, and security news.
 
 ## LinkedIn Groups:
 
