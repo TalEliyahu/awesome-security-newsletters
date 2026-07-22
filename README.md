@@ -43,6 +43,8 @@ Periodic cyber security newsletters that capture the latest news, summaries of c
 
 - [MI-One by Metron Security](https://hub.metronlabs.com/newsletter/) - It's your exclusive monthly peek into the inner world of security system integrations and automation.
   
+- [GitHub Trends Watch](https://github.com/zuwasi/GitHub-Trends-Watch) - A self-hosted, cross-platform GitHub trends newsletter generator that monitors GitHub Trending on a configurable schedule, classifies repositories with a dedicated security category, scores growth, maturity, community, and heuristic security signals, and uses a locally installed AI coding agent to produce an illustrated HTML report delivered by email — filterable by language, stars, growth, and keywords to create a security-focused trending-project digest.
+
 ## News Newsletters 
 
 - [The CyberSecurity Club](https://thecybersecurityclub.beehiiv.com/) - Provides a short summary on all the key topics you may have missed for the week, covering threat intelligence, cybersecurity trends & insights, regulatory developments and vulnerability news.
