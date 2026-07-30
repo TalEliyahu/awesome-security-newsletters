@@ -26,6 +26,7 @@ Periodic cyber security newsletters that capture the latest news, summaries of c
 - [Politico Weekly Cybersecurity](https://www.politico.com/newsletters/weekly-cybersecurity) - Delivered every Monday by 10 a.m., Weekly Cybersecurity examines the latest news in cybersecurity policy and politics. 
 
 - [AdvisoryWeek](https://advisoryweek.com/) - A roundup of the security advisories that were published each week by major software vendors (Apple, Adobe, Microsoft, Oracle, etc.), built by Pete Freitag [(@pfreitag)](https://twitter.com/pfreitag).
+- [The Patch Window](https://the-patch-window.beehiiv.com/) - Weekly patch-priority brief for enterprise infra teams: which actively exploited CVEs across Cisco, Windows Server, VMware, and edge appliances are worth a maintenance window this week, ranked by exploitation evidence (CISA KEV, MSRC) rather than CVSS.
 
 - [Risky.Biz](https://news.risky.biz/) - It’s your weekly digest and analysis of the big stories shaping cyber policy. Prepared by Brett Winterford [(@breditor)](https://twitter.com/breditor), Tom Uren [(@tomatospy)](https://twitter.com/tomatospy), and Patrick Gray [(@riskybusiness)](https://twitter.com/riskybusiness).
 
