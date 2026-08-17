@@ -49,6 +49,8 @@ Periodic cyber security newsletters that capture the latest news, summaries of c
 
 - [TLDR Information Security](https://tldr.tech/infosec) - A daily newsletter delivering the latest news, research, and tools.
 
+- [ThreatCluster Daily Digest](https://threatcluster.io/digest) - Daily digest of clustered threat reporting, with per-industry editions.
+
 - [Vulnerable U](https://vulnu.mattjay.com/) - A weekly security newsletter "building resilience" - by Matt Johansen ([@mattjay](https://twitter.com/mattjay))
 
 - [Last Week in Security](https://blog.badsectorlabs.com) - A summary of the interesting cybersecurity news, techniques, tools and exploits from the previous week -  Bad Sector Labs ([@badsectorlabs](https://twitter.com/badsectorlabs)).
