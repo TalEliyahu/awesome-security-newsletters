@@ -41,6 +41,8 @@ Periodic cyber security newsletters that capture the latest news, summaries of c
 
 - [Venture in Security](https://ventureinsecurity.net/) - A free weekly newsletter about the business side of security (startups, ecosystem, venture capital, investing, markets etc.)
 
+- [TrazTech Security Blog](https://traztech.ca/blog) - Security compliance, vulnerability research (5 CVEs including CVSS 9.1), cloud security, and AI/LLM security.
+
 - [MI-One by Metron Security](https://hub.metronlabs.com/newsletter/) - It's your exclusive monthly peek into the inner world of security system integrations and automation.
    
 ## News Newsletters 
