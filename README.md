@@ -69,6 +69,7 @@ Periodic cyber security newsletters that capture the latest news, summaries of c
 
 - Artificial Intelligence Security - https://www.linkedin.com/groups/14545517/
 - Web3 Security - https://www.linkedin.com/groups/14549421/
+- [HostDeFi](https://hostdefi.com) — free token-safety scanner grading tokens A+–F from on-chain checks (mint/freeze authority, liquidity, holder concentration) across Solana + 7 EVM chains. Keyless REST API, hosted MCP, x402 endpoints.
 
 ## Telegram Channaels 
 
