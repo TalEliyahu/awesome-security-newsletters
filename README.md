@@ -42,6 +42,8 @@ Periodic cyber security newsletters that capture the latest news, summaries of c
 - [Venture in Security](https://ventureinsecurity.net/) - A free weekly newsletter about the business side of security (startups, ecosystem, venture capital, investing, markets etc.)
 
 - [MI-One by Metron Security](https://hub.metronlabs.com/newsletter/) - It's your exclusive monthly peek into the inner world of security system integrations and automation.
+
+- [KEV Watch](https://kev.bitsnprints.com/) - A free weekly digest of new CISA Known Exploited Vulnerabilities (KEV) catalog additions, filtered to the vendors you pick, built by Steve Degregorio (Bits N Prints).
    
 ## News Newsletters 
 
