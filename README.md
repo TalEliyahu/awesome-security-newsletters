@@ -1,11 +1,10 @@
-![Awesome Security Newsletters — curated cybersecurity newsletters](assets/awesome-security-newsletters-banner.webp)
-
 # Awesome Cyber Security Newsletters ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 
 Periodic cyber security newsletters that capture the latest news, summaries of conference talks, research, best practices, tools, events, vulnerabilities, and analysis of trending threats and attacks
 
 > 🔗 Related: **Awesome AI Security** — curated resources for securing AI systems: https://github.com/TalEliyahu/Awesome-AI-Security · **Awesome Cybersecurity Podcasts** — curated cybersecurity podcasts: https://github.com/TalEliyahu/awesome-cybersecurity-podcasts · **Awesome Cybersecurity Conferences** — curated cybersecurity conferences: https://awesomecybersecurityconferences.com/
-  
+
+![Awesome Security Newsletters — curated cybersecurity newsletters](assets/awesome-security-newsletters-banner.webp)
 
 ## Niche Newsletters 
 
