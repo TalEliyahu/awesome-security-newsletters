@@ -43,6 +43,7 @@ Periodic cyber security newsletters that capture the latest news, summaries of c
 - [Venture in Security](https://ventureinsecurity.net/) - A free weekly newsletter about the business side of security (startups, ecosystem, venture capital, investing, markets etc.)
 
 - [MI-One by Metron Security](https://hub.metronlabs.com/newsletter/) - It's your exclusive monthly peek into the inner world of security system integrations and automation.
+- [Agent Security Index](https://agentsecurityindex.com/briefing/) - A free weekly briefing on AI agent security tools, covering new tools, acquisitions, price changes and new attack techniques.
    
 ## News Newsletters 
 
